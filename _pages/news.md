@@ -2,11 +2,11 @@
 layout: categories #tags #categories #posts
 #entries_layout: grid
 author_profile: true
-permalink: /blog/
-title: "Posts"
+permalink: /news/
+title: "News"
 classes: wide
 header:
-  overlay_image: /assets/images/banner.png
+  overlay_image: /assets/images/banner2.png
 
 author_profile: true
 ---

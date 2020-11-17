@@ -1,22 +1,21 @@
 ---
 layout: splash # archive
 permalink: /team/
-title: "Modern Tontine Solutions"
+title: "Nuovalo Team"
 classes: wide
 header:
   overlay_image: /assets/images/base.png
 
-
-excerpt: Flexible, Transparent, Efficient Retirement Pools
+excerpt: Passion and Expertise
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner.png
+  overlay_image: /assets/images/banner2.png
   actions:
-     - label: "Get Started"
-       url: "/services/"
-     - label: "Contact"
-       url: "/about/"
+     - label: "Founders"
+       url: "/team/#founding-team"
+    #- label: "Contact"
+    #   url: "/about/"
 
 
 feature_row_intro:
@@ -30,7 +29,7 @@ feature_row_intro:
 
 
 feature_row_founders:
-  - image_path: /assets/images/team/rf.jpg
+  - image_path: /assets/images/team/nuovalo-modern-tontine-richard-fullmer.png #nuovalo-team-rf.png
     alt: #"Bits and Bolts"
     title: "CEO and Founder"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
@@ -38,7 +37,7 @@ feature_row_founders:
     btn_class: "btn--primary"
     btn_label: "Richard Fullmer"
 
-  - image_path: /assets/images/team/tf.jpg
+  - image_path: /assets/images/team/nuovalo-modern-tontine-tyron-fouche.png
     alt: #"P2P Pension Fund"
     title: "Title & Co-Founder"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
@@ -46,7 +45,7 @@ feature_row_founders:
     btn_class: "btn--primary"
     btn_label: "Tyron Fouche"
 
-  - image_path: /assets/images/team/pw.jpg
+  - image_path: /assets/images/team/nuovalo-modern-tontine-pascal-winter.png
     alt: #"P2P Pension Fund"
     title: "Title & Co-Founder"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
@@ -54,7 +53,7 @@ feature_row_founders:
     btn_class: "btn--primary"
     btn_label: "Pascal Winter"
 
-  - image_path: /assets/images/team/mgh.jpg
+  - image_path: /assets/images/team/nuovalo-modern-tontine-manuel-garcia-huitron.png
     alt: #"P2P Pension Fund"
     title: "Title & Co-Founder"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
@@ -73,4 +72,4 @@ feature_row_founders:
 
 # Founding Team
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-{% include feature_row id="feature_row_founders" type="left" %}
+{% include feature_row id="feature_row_founders" %}

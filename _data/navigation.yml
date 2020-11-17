@@ -8,11 +8,12 @@ main:
     url: /services/
   - title: "Team"
     url: /team/
-#  - title: "Blog"
-#    url: /blog/
+  - title: "News"
+    url: /news/
   - title: "About"
     url: /about/
-
+  - title: "Contact"
+    url: /contact/
 
 
   # - title: "About"

@@ -2,42 +2,12 @@
 layout: single # archive
 author_profile: true
 permalink: /about/
-title: "About & Contact"
+title: "About Us"
 classes: wide
 header:
-  overlay_image: /assets/images/banner.png
-
-
+  overlay_image: /assets/images/banner2.png
 
 ---
-## Contact Us
-
-<form id="fs-frm" name="department-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjpkdqa/" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <input type="text" name="_gotcha" style="display:none" />
-    <label for="inquiry">Inquiry Type</label>
-    <select name="inquiry" id="inquiry" required="">
-      <option value="Select" selected="" disabled="">Select</option>
-      <option value="Consulting">Consulting</option>
-      <option value="Solutions">Solutions</option>
-      <option value="Partnership">Partnership</option>
-      <option value="Media">Media</option>
-      <option value="Other">Other</option>
-    </select>
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Message" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Department Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Send Message">
-</form>
-
-
-
-
 
 ## About Nuovalo
 
