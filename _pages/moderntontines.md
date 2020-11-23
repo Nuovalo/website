@@ -2,6 +2,7 @@
 layout: splash
 permalink: /modern-tontines/
 title: "Modern Tontines"
+excerpt: "Optimized lifetime pensions"
 header:
   overlay_image: /assets/images/banner2.png
   actions:
@@ -12,12 +13,41 @@ header:
      - label: "FAQ"
        url: "/tontines-faq/"
 
+feature_row:
+ - image_path: /assets/images/service.png
+   alt: #"Bits and Bolts"
+   title: "For Individuals"
+   excerpt: "Fair and flexible retirement pools at low cost"
+   url: "/tontines-individuals/"
+   btn_class: "btn--primary"
+   btn_label: "Benefits for Individuals"
+ - image_path: /assets/images/service.png
+   alt: #"P2P Pension Fund"
+   title: "For Institutions"
+   excerpt: "Fully funded lifetime pensions"
+   url: /tontines-institutions/"
+   btn_class: "btn--primary"
+   btn_label: "Benefits for Institutions"
+ - image_path: /assets/images/service.png
+   alt: #"P2P Pension Fund"
+   title: "Frequently asked questions"
+   excerpt: "Usual questions about Modern Tontines"
+   url: "/tontines-faq/"
+   btn_class: "btn--primary"
+   btn_label: "FAQs"
+
 ---
+
+{% include feature_row id="feature_row" %}
+
 # Introduction
->“The Tontine is perhaps the most discredited financial instrument in history” - Edward Chancellor
+>“The Tontine is perhaps the most discredited financial instrument in history” - Edward Chancellor, The Spectator, Vol. 286, No. 9007, 24 March 2001.
+
+We stand ready to fix that.
+
 
 ## The global retirement challenge
-> Retirement Decumulation is the "nastiest, hardest, problem in finance" - William Sharpe
+> Retirement Decumulation is the "nastiest, hardest, problem in finance" - Nobel laureate [William Sharpe](https://www.bloomberg.com/opinion/articles/2017-06-05/tackling-the-nastiest-hardest-problem-in-finance)
 
  Indeed, this may well be true… at least for those who try to manage longevity risk on their own.  But by pooling their risk with others, people can greatly diversify and reduce this risk.  In fact, risk pooling is so effective that it can facilitate the virtual assurance of lifetime income for everyone.  Not only that, but it also allows individuals to achieve significantly higher levels of retirement income.
 {: .text-justify}
@@ -25,7 +55,7 @@ header:
 It’s really quite simple.  Through risk sharing, a tontine changes the conditional distribution of retirement outcomes in a very useful way – those who live long lives are subsidized by those who die earlier.  For those who are relying on a portfolio to generate income over a highly uncertain and potentially long remaining lifetime, this is exactly what they should want.
 {: .text-justify}
 
-> So, the lesson we all learned as children in kindergarten is true – life is better when we share!
+> "As it turns out, everything we need to know about building a perfect retirement product we learned in kindergarten. Life is better when you share." - [Michael Finke](https://www.thinkadvisor.com/2015/07/02/milevskys-bold-plan-to-reinvent-retirement-income/)
 
 
 ## Brief history and a checkered past
@@ -45,13 +75,16 @@ The tontine risk-sharing principle is enjoying renewed interest given its potent
 
 
 # Modern Tontines
-We are not talking about the tontines of past centuries.  We are talking about modern tontines that are open-ended and therefore do not suffer from shrinking membership over time.
+Modern tontines represent a complete redesign.  They can be open-ended and able to continually accept new members.  As a result, modern tontines need not suffer from a membership pool that gradually grows smaller over time.  In fact, the membership can continue to grow year by year.
+{: .text-justify}
+Moreover, modern tontines can be:
 {: .text-justify}
 
-* A) perpetual
-* B) flexible
-* C) transparent
-* and D) actuarially fair to all investors at all times
+* A) Perpetual
+* B) Flexible
+* C) Simple to understand
+* D) Highly transparent
+* E) Actuarially fair to all investors at all times
 {: .text-justify}
 
 
@@ -136,13 +169,13 @@ The task of engineering a truly fair tontine is a bit more complicated, and that
 {: .text-justify}
 
 
-Ancient tontines of the past were typically limited to closed-end structures with an initial subscription period.  Some number of investors would subscribe and receive payouts that increased over time as others died.  The membership would gradually decline until there was a single survivor (or perhaps some small set of last survivors who split the remainder of the pot).  Payouts would start small and grow exponentially in very old age for the lucky few who made it that far.  The pool was inflexible – everyone got the same investment portfolio and received the same payout.  These tontines were much more like lotteries than anything else.  Nice if you win, but not so helpful otherwise.  After all, who wants to sacrifice income early in retirement for a small chance at obtaining a fortune when you have little time and perhaps little health by which to enjoy it.  Such tontines are not very efficient for either the members or the providers.
+Ancient tontines of the past were typically limited to closed-end structures with an initial subscription period.  Some number of investors would subscribe and receive payouts that increased over time as others died.  The membership would gradually decline until there was a single survivor (or perhaps some small set of last survivors who split the remainder of the pot).  Payouts would start small and grow exponentially in very old age for the lucky few who made it that far.  The pool was inflexible – everyone got the same investment portfolio and received the same payout.  These tontines were much more like lotteries than anything else.  Nice if you win, but not so helpful otherwise.  After all, who wants to sacrifice income early in retirement for a small chance at obtaining a fortune when you have little time and perhaps little health by which to enjoy it ?  Such tontines are not very efficient for either the members or the providers.
 {: .text-justify}
 
 Modern tontines can be much more efficient and flexible.  A single tontine pool can be open-ended, designed to run forever, continually able to take in new members, allowing portfolio choice, and providing a number of different payout options.  Sure, payouts can be lottery-like for those who wish, but they can also be engineered as annuity-like, with higher payouts in the early years and flatter trajectories.
 {: .text-justify}
 
-Tontines offer no guarantees, which is why they are less costly than insured annuities.  Thus, their payouts may rise or fall.  Those that desire more stable payouts can select conservative tontine portfolios, especially one that holds bonds according to a tailored duration matching strategy.  Additional smoothing techniques can be constructed by employing side reserves.
+Tontines offer no guarantees, which is why they are less costly than insured annuities.  Thus, their payouts may rise or fall.  Those that desire more stable payouts can select conservative tontine portfolios, especially one that holds bonds according to a tailored duration matching strategy.  Additional smoothing techniques can be constructed by combining a tontine account with regular investment accounts.
 {: .text-justify}
 
 With modern tontines, asset managers can finally offer assured lifetime income solutions that compete favorably with annuities.  Annuity providers can finally offer assured lifetime income solutions at low cost.  Financial advisors can finally have a tool that provides lifetime income while also allowing them to continue advising on the underlying assets.

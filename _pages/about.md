@@ -14,10 +14,10 @@ header:
 [**Nuovalo Ltd.**](/) is a fintech/insurtech company specializing in sustainable retirement pension solutions through longevity-risk sharing, as with tontines and collective defined contribution (CDC) schemes.
 {: .text-justify}
 
-We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), founded by [**Richard Fullmer**](https://www.linkedin.com/in/richard-fullmer-b4b00a2/), a leading pioneer of modern tontine research and design.
+We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.
 {: .text-justify}
 
-Indeed, research is in our DNA… and in case you didn’t notice, [**Nuovalo**](/) is short for [**Nuova Longevità**](https://www.nuovalongevita.com/). We like the name, which means New Longevity in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
+Indeed, research is in our DNA… and in case you didn’t notice, [**Nuovalo**](/) is short for **Nuova Longevità**. We like the name, which means New Longevity in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
 {: .text-justify}
 
 

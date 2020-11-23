@@ -34,16 +34,34 @@ feature_row_vision:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
     title: "Fully funded lifetime pensions at low cost"
-    excerpt: "A world in which individuals and their employers can save into assured, flexible and efficient retirement schemes"
+    excerpt: "Our vision is a world in which individuals and their employers can save into assured, flexible and efficient retirement schemes."
     url: "/modern-tontines/"
     btn_class: "btn--primary"
     btn_label: "Modern Tontines"
+
+feature_row_mission2:
+  - image_path: /assets/images/service.png
+    alt: #"Bits and Bolts"
+    title: "Serve and Enable the Retirement Industry"
+    excerpt: "Partnering with pension plan sponsors and financial services firms to enable the efficient development and operation of such pensions through our new design and technology platform."
+    url: "/services/"
+    btn_class: "btn--primary"
+    btn_label: "Services"
 
 feature_row_mission:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
     title: "Serve and Enable the Retirement Industry"
-    excerpt: "Partnering with pension plan sponsors and financial services firms to enable the efficient development and operation of such pensions through our new design and technology platform"
+    excerpt: "With modern tontines, asset managers can finally offer assured lifetime income solutions, insurers can offer lifetime income with less capital requirements, pension plans can offer lifetime income more flexibility and transparence, and advisors gain access to a lifetime income solution that allows them to continue advising on the underlying assets."
+    url: "/services/"
+    btn_class: "btn--primary"
+    btn_label: "Services"
+
+feature_row_tontinesbenefit:
+  - image_path: /assets/images/service.png
+    alt: #"Bits and Bolts"
+    title: "Optimized lifetime income solutions"
+    excerpt: "With modern tontines, asset managers can finally offer assured lifetime income solutions, insurers can offer lifetime income with less capital requirements, pension plans can offer lifetime income more flexibility and transparence, and advisors gain access to a lifetime income solution that allows them to continue advising on the underlying assets."
     url: "/services/"
     btn_class: "btn--primary"
     btn_label: "Services"
@@ -58,6 +76,8 @@ feature_row_ksp:
     btn_label: "Team"
 
 
+
+# {% include feature_row id="feature_row_tontinesbenefit" type="right" %}
 ---
 
 {% include feature_row id="feature_row_painpoint" type="left" %}
