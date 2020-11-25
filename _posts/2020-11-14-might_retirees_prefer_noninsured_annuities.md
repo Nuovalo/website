@@ -2,9 +2,10 @@
 title: "Tontines: Might Retirees Prefer Noninsured Annuities?"
 excerpt: "Modern tontines envisioned by economists today have evolved since the tontines of yestercentury"
 categories:
-  - General
+  - Explainer
 tags:
   - tontines
+classes: wide
 ---
 
 Tontines, a nearly-extinct financial device invented centuries ago, are receiving fresh attention as a tool for retirement income.  We do mean *fresh* – modern tontines envisioned by economists today have evolved since the tontines of yestercentury.

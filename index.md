@@ -2,8 +2,7 @@
 layout: splash # archive
 permalink: /
 title: "Nuovalo Tontine Solutions"
-header:
-  overlay_image: /assets/images/base.png
+
 
 excerpt: Fully funded, lifetime pensions at low cost #Flexible, Transparent, Efficient Retirement Pools
 
@@ -29,6 +28,11 @@ feature_row_painpoint:
     alt: #"Bits and Bolts"
     title: "Retirement Decumulation: the nastiest, hardest, problem in finance - Bill Sharpe"
     excerpt: "Indeed, this may well be true… at least for those who try to manage longevity risk on their own.  But by pooling their risk with others, people can greatly diversify and reduce this risk.  In fact, risk pooling is so effective that it can facilitate the virtual assurance of lifetime income for everyone.  Not only that, but it also allows individuals to achieve significantly higher levels of retirement income."
+    url: "modern-tontines/#the-global-retirement-challenge"
+    btn_class: "btn--primary"
+    btn_label: "Pension Decumulation"
+
+
 
 feature_row_vision:
   - image_path: /assets/images/service.png

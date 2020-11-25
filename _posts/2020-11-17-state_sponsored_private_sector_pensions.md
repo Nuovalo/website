@@ -2,10 +2,15 @@
 title: "State-sponsored Pensions for Private Sector Workers: A Sustainable, Low-Cost Approach"
 excerpt: "Assurance funds would offer some of the same features as traditional defined benefit (DB) pensions, such as longevity risk pooling and lifetime payouts. A big difference, however..."
 categories:
-  - General
+  - In the News
+  - Publication
 tags:
   - tontines
+classes: wide
 ---
+
+*This article, co-authored with Jonathan Barry Forman, [first appeared](https://pensionresearchcouncil.wharton.upenn.edu/blog/state-sponsored-pensions-for-private-sector-workers-a-sustainable-low-cost-approach/) in the RetireSecure Blog of the Wharton Pension Research Council.*
+
 
 Oregon, Maryland, and a number of other US states have recently created [state-sponsored retirement saving plans](https://www.aarp.org/ppi/state-retirement-plans/) to help millions of private-sector workers lacking pension coverage to save for retirement. While these programs offer a good way to accumulate retirement savings, people also need an efficient way to convert their retirement savings into lifetime income. To address this need, state governments would do well to investigate and potentially sponsor new, low-cost lifetime [pension assurance funds](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers).
 

@@ -2,14 +2,18 @@
 title: "Individual Tontine Accounts – Yes, Seriously!"
 excerpt: "Modern tontines are fair, transparent, simple, perpetually open to new members, always fully funded, ... and surprisingly versatile!"
 categories:
-  - General
+  - Explainer
+  - In the News
 tags:
   - tontines
+classes: wide
 ---
+
+*A [version of this article](https://retirementincomejournal.com/article/individual-tontine-accounts-yes-seriously/) also appeared in the Retirement Income Journal.*
 
 Tontines are a much-misunderstood investment arrangement that deserve a fresh look.  Put aside everything you *thought* you knew about them.  Forget the devious plots found in fiction novels, and do not confuse modern day tontines with the sketchy, opaque products called “tontine insurance” that were banned out of existence a century ago.  Modern tontines such as we envision are fair to all, completely transparent, simple to understand, perpetually open to new members, always fully funded, able to provide the assurance of lifetime income to those who want it, less expensive than guaranteed lifetime income alternatives... and surprisingly versatile!
 
-In a study, we explored this versatility potential by examining the concept of tontine brokerage accounts in which individuals freely invest as they choose and select from from a wide array of payout options.  We show that such arrangements, which we call *individual tontine accounts*, or ITAs, can be fair to all members regardless of who else is participating and what decisions they make in their own accounts.
+In a study, we explored this versatility potential by examining the concept of tontine brokerage accounts in which individuals freely invest as they choose and select from a wide array of payout options.  We show that such arrangements, which we call *individual tontine accounts*, or ITAs, can be fair to all members regardless of who else is participating and what decisions they make in their own accounts.
 
 ITAs could serve as a special type of longevity risk pooled Individual Retirement Accounts (IRAs), allowing retirees to derive extra income from their savings without taking on additional investment risk, and giving them the option to secure annuity-like lifetime income at lower cost.  The time is ripe to take a serious examination of the modern-day fair tontine as an important new arrow in the quiver for addressing the global retirement crisis.
 

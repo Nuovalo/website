@@ -2,9 +2,11 @@
 title: "Research Library"
 excerpt: "Selected reading for those who like research"
 categories:
-  - General
+  - Research
+  - Publication
 tags:
   - tontines
+classes: wide
 ---
 
 ## Nuovalo and Affiliated Research Partners

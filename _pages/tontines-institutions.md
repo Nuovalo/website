@@ -1,5 +1,5 @@
 ---
-layout: splash # archive
+layout: single # archive
 permalink: /tontines-institutions/
 title: "Modern Tontines"
 excerpt: "For institutions"
@@ -11,5 +11,5 @@ header:
 ---
 
 
-## Title
-<p>This text should appear above the recent posts.</p>
+## Flexible Design
+![image-right](/assets/images/tontines_graph.png){: .align-center}

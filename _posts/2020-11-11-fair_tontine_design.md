@@ -2,9 +2,12 @@
 title: "On the Matter of Fair and Equitable Tontine Design"
 excerpt: "A fundamental principle of tontines is that their design should be fair to all investors."
 categories:
-  - General
+  - Explainer
+  - Research
 tags:
   - tontines
+classes: wide
+
 ---
 
 Tontines are a type of investment in which the account balances of shareholders who die are forfeited, divided up, and transferred to shareholders who are still living. Exactly how they are divided up and transferred is a critical element of tontine design. Everyone should care about this whether they are investors, prospective investors, advisors, or regulators.

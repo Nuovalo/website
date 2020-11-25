@@ -2,10 +2,15 @@
 title: "The Case for State-Sponsored Tontine Pensions for Private Sector Workers"
 excerpt: "We propose a new form of lifetime pension—tontine pensions that could be added as an option to virtually any defined contribution (DC) plan"
 categories:
-  - General
+  - In the News
+  - Explainer
 tags:
   - tontines
+classes: wide
 ---
+
+*This article [first appeared](https://cri.georgetown.edu/the-case-for-tontine-pensions-as-a-lifetime-income-solution-for-state-sponsored-retirement-savings-programs/) in the Georgetown University Center for Retirement Initiatives blog.*
+
 
 The quest for retirement security faces significant challenges in virtually every country across the globe. Traditional defined benefit (DB) pensions are challenged by increasing life expectancies, a lower ratio of workers to retirees, and historically low interest rates—all of which have served to dramatically increased the cost to finance retirement. This cost involves a number of assumptions that each involve a level of uncertainty. Thus, the act of promising a *specific level* of retirement benefits to workers is an expensive and risky endeavor.
 

@@ -2,9 +2,12 @@
 title: "A Practitioner's Primer on Tontine Portfolios"
 excerpt: "A first of its kind primer for investment practitioners on the subject of tontine portfolios"
 categories:
-  - General
+  - In the News
+  - Research
+  - Publication
 tags:
   - tontines
+classes: wide
 ---
 
 We are pleased to announce the CFA Institute Research Foundation has published [Tontines: A Practitioner’s Guide to Mortality-Pooled Investments](https://www.cfainstitute.org/-/media/documents/article/rf-brief/fullmer-tontines-rf-brief.ashx), a first of its kind primer for investment practitioners on the subject of tontine portfolios. Many thanks to the Foundation for funding this research brief.
