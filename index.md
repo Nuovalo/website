@@ -9,7 +9,7 @@ excerpt: Fully funded, lifetime pensions at low cost #Flexible, Transparent, Eff
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner2.png
+  overlay_image: /assets/images/banner3.png
   actions:
      - label: "Get Started"
        url: "/services/"
@@ -27,32 +27,23 @@ header:
 feature_row_painpoint:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
-    title: "Retirement Decumulation, the nastiest, hardest, problem in finance - Bill Sharpe"
-    excerpt: " Indeed, this may well be true… at least for those who try to manage longevity risk on their own.  But by pooling their risk with others, people can greatly diversify and reduce this risk.  In fact, risk pooling is so effective that it can facilitate the virtual assurance of lifetime income for everyone.  Not only that, but it also allows individuals to achieve significantly higher levels of retirement income."
+    title: "Retirement Decumulation: the nastiest, hardest, problem in finance - Bill Sharpe"
+    excerpt: "Indeed, this may well be true… at least for those who try to manage longevity risk on their own.  But by pooling their risk with others, people can greatly diversify and reduce this risk.  In fact, risk pooling is so effective that it can facilitate the virtual assurance of lifetime income for everyone.  Not only that, but it also allows individuals to achieve significantly higher levels of retirement income."
 
 feature_row_vision:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
     title: "Fully funded lifetime pensions at low cost"
-    excerpt: "Our vision is a world in which individuals and their employers can save into assured, flexible and efficient retirement schemes."
+    excerpt: "Our vision is a world in which individuals and their employers can save into assured, flexible, and efficient retirement schemes."
     url: "/modern-tontines/"
     btn_class: "btn--primary"
     btn_label: "Modern Tontines"
 
-feature_row_mission2:
-  - image_path: /assets/images/service.png
-    alt: #"Bits and Bolts"
-    title: "Serve and Enable the Retirement Industry"
-    excerpt: "Partnering with pension plan sponsors and financial services firms to enable the efficient development and operation of such pensions through our new design and technology platform."
-    url: "/services/"
-    btn_class: "btn--primary"
-    btn_label: "Services"
-
 feature_row_mission:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
-    title: "Serve and Enable the Retirement Industry"
-    excerpt: "With modern tontines, asset managers can finally offer assured lifetime income solutions, insurers can offer lifetime income with less capital requirements, pension plans can offer lifetime income more flexibility and transparence, and advisors gain access to a lifetime income solution that allows them to continue advising on the underlying assets."
+    title: "Serving and Enabling the Retirement Industry"
+    excerpt: "Through our design and technology platform, we partner with pension plan sponsors and financial services firms to enable the efficient development and delivery of longevity risk-pooled retirement income products."
     url: "/services/"
     btn_class: "btn--primary"
     btn_label: "Services"
@@ -60,8 +51,8 @@ feature_row_mission:
 feature_row_tontinesbenefit:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
-    title: "Optimized lifetime income solutions"
-    excerpt: "With modern tontines, asset managers can finally offer assured lifetime income solutions, insurers can offer lifetime income with less capital requirements, pension plans can offer lifetime income more flexibility and transparence, and advisors gain access to a lifetime income solution that allows them to continue advising on the underlying assets."
+    title: "Benefits"
+    excerpt: "With modern tontines: Asset managers can finally offer assured lifetime income solutions, Insurers can offer lifetime income with significantly reduced capital requirements, Pension plans can offer lifetime income more flexibility and transparence, and Advisors gain access to a lifetime income solution that allows them to continue advising on the underlying assets."
     url: "/services/"
     btn_class: "btn--primary"
     btn_label: "Services"
@@ -69,7 +60,7 @@ feature_row_tontinesbenefit:
 feature_row_ksp:
   - image_path: /assets/images/service.png
     alt: #"Bits and Bolts"
-    title: "Why choose Nuovalo ?"
+    title: "Why choose Nuovalo?"
     excerpt: "We are pioneers of fair tontine design and experts at crafting bespoke solutions for our clients. We are building a world-class technology platform that will allow financial services firms to deliver innovative new solutions to their clients."
     url: "/team/"
     btn_class: "btn--primary"
@@ -83,4 +74,5 @@ feature_row_ksp:
 {% include feature_row id="feature_row_painpoint" type="left" %}
 {% include feature_row id="feature_row_vision" type="right" %}
 {% include feature_row id="feature_row_mission" type="left" %}
-{% include feature_row id="feature_row_ksp" type="right" %}
+{% include feature_row id="feature_row_tontinesbenefit" type="right" %}
+{% include feature_row id="feature_row_ksp" type="left" %}

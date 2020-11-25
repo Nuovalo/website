@@ -10,7 +10,7 @@ excerpt: Passion and Expertise
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner2.png
+  overlay_image: /assets/images/banner3.png
   actions:
      - label: "Founders"
        url: "/team/#founding-team"
@@ -22,7 +22,7 @@ feature_row_intro:
   - image_path: /assets/images/nuovalo-modern-tontines-location2.png #/assets/images/nuovalo-gear-name.png
     alt: #"Bits and Bolts"
     title: "Natively Global"
-    excerpt: "Founded in 2020 by Modern Tontines enthusiasts around the world, Nuovalo is inherently global, just like the pension underfunding problem it aims to solve"
+    excerpt: "Founded in 2020 by Modern Tontines enthusiasts around the world, Nuovalo is inherently global, just like the pension underfunding problem we aim to solve"
     url: "https://www.linkedin.com/in/richard-fullmer-b4b00a2/"
     btn_class: "btn--primary"
     btn_label: "Contact Us"

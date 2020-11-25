@@ -2,9 +2,9 @@
 layout: splash # archive
 permalink: /services/
 title: "Nuovalo Services"
-excerpt: "Serve Retirement Industry"
+excerpt: "Serving the Global Retirement Industry"
 header:
-  overlay_image: /assets/images/banner2.png
+  overlay_image: /assets/images/banner3.png
   actions:
      - label: "Consulting"
        url: "/services/#consulting" #"/nuovalo-consulting/"

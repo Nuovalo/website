@@ -4,12 +4,12 @@ permalink: /tontines-individuals/
 title: "Modern Tontines"
 excerpt: "For individuals"
 header:
-  overlay_image: /assets/images/banner2.png
+  overlay_image: /assets/images/banner3.png
 
 
 
 ---
 
 
-## Blablanskanskajxsknjsxk
+## Title
 <p>This text should appear above the recent posts.</p>

@@ -5,7 +5,7 @@ permalink: /about/
 title: "About Us"
 classes: wide
 header:
-  overlay_image: /assets/images/banner2.png
+  overlay_image: /assets/images/banner3.png
 
 ---
 
@@ -17,7 +17,7 @@ header:
 We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.
 {: .text-justify}
 
-Indeed, research is in our DNA… and in case you didn’t notice, [**Nuovalo**](/) is short for **Nuova Longevità**. We like the name, which means New Longevity in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
+Indeed, research is in our DNA… and in case you didn’t notice, **Nuovalo** is short for **Nuova Longevità**. We like the name, which means *New Longevity* in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
 {: .text-justify}
 
 
