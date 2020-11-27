@@ -31,7 +31,7 @@ feature_row_intro:
 feature_row_richard:
   - image_path: /assets/images/team/nuovalo-modern-tontine-richard-fullmer.png #nuovalo-team-rf.png
     alt: #"Bits and Bolts"
-    title: "Founder, CEO and Head of Research"
+    title: "Managing Partner"
     excerpt: "After a long career in insurance and asset management, Richard founded [**Nuova Longevità Research**](https://www.nuovalongevita.com/) and helped pioneer the Modern Tontine mechanism in collaboration with fellow researchers Michael Sabin and Jonathan Forman. After producing several publications on the subject, Richard assembled the Nuovalo team with the aim to make modern tontines a practical alternative to conventional pensions and portfolio drawdown approaches."
     url: "https://www.linkedin.com/in/richard-fullmer-b4b00a2/"
     btn_class: "btn--primary"
@@ -40,7 +40,7 @@ feature_row_richard:
 feature_row_tyron:
   - image_path: /assets/images/team/nuovalo-modern-tontine-tyron-fouche.png
     alt: #"P2P Pension Fund"
-    title: "Co-Founder, Head of EMEA"
+    title: "Partner, Head of EMEA"
     excerpt: "As a Fellow actuary and past founder of Nobuntu - a B2C tontine venture in South Africa and a Techstars accelerator graduate - Tyron is a passionate entrepreneur with a taste for solving complex problematics. His role is to drive the EMEA business operations and Nuovalo's development"
     url: "https://www.linkedin.com/in/tyron-fouche-fia-a2a12a40/"
     btn_class: "btn--primary"
@@ -49,7 +49,7 @@ feature_row_tyron:
 feature_row_pascal:
   - image_path: /assets/images/team/nuovalo-modern-tontine-pascal-winter.png
     alt: #"P2P Pension Fund"
-    title: "Co-Founder, Chief Actuary & Acting CTO"
+    title: "Partner, Actuarial Technology"
     excerpt: "As a qualified French actuary with 15 years insurance experience across Asia, various managerial level positions and strong taste for technology, Pascal was naturally attracted by the simplicity and efficiency of Modern Tontines. His role is to implement Modern Tontines Services and to drive Nuovalo's development"
     url: "https://www.linkedin.com/in/pascal-winter-b90099a1"
     btn_class: "btn--primary"
@@ -58,7 +58,7 @@ feature_row_pascal:
 feature_row_manuel:
   - image_path: /assets/images/team/nuovalo-modern-tontine-manuel-garcia-huitron.png
     alt: #"P2P Pension Fund"
-    title: " Co-Founder, Head of Americas & Chief Strategist"
+    title: "Partner, LATAM"
     excerpt: "With more than 20 years experience in the pension business across the world, Manuel is a leading expert in Pension design, reform and regulation. Currently in LATAM, Manuel's role is to drive the Americas business operations and Nuovalo's development"
     url: "https://www.linkedin.com/in/manuel-garcia-huitron-0b61934/"
     btn_class: "btn--primary"
