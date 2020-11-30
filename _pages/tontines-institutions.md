@@ -4,7 +4,7 @@ permalink: /tontines-institutions/
 title: "Modern Tontines"
 excerpt: "For institutions"
 header:
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
 
 
 

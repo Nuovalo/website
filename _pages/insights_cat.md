@@ -6,7 +6,7 @@ permalink: /categories/
 title: "Insights"
 classes: wide
 header:
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
 
 
 ---

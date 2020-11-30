@@ -4,7 +4,7 @@ permalink: /tontines-faq/
 title: "Modern Tontines"
 excerpt: "Frequently Asked Questions"
 header:
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
 
 
 

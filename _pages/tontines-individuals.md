@@ -4,7 +4,7 @@ permalink: /tontines-individuals/
 title: "Modern Tontines"
 excerpt: "For individuals"
 header:
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
 
 feature_row_intro:
   - title: "Project Categories"

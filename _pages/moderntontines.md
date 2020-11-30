@@ -4,7 +4,7 @@ permalink: /modern-tontines/
 title: "Modern Tontines"
 excerpt: "Optimized lifetime pensions"
 header:
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
   actions:
      - label: "For Individuals"
        url: "/tontines-individuals/"

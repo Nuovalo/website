@@ -8,7 +8,7 @@ excerpt: Fully funded, lifetime pensions at low cost #Flexible, Transparent, Eff
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
   actions:
      - label: "Get Started"
        url: "/services/"

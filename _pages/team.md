@@ -10,7 +10,7 @@ excerpt: Passion and Expertise
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner3.png
+  overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
   actions:
      - label: "Founders"
        url: "/team/#founding-team"
