@@ -73,7 +73,6 @@ feature_row_manuel:
 {% include feature_row id="feature_row_intro" type="center" %}
 
 
-
 # Founding Team
 {% include feature_row id="feature_row_empty" type="center" %}
 
