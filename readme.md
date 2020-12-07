@@ -65,19 +65,28 @@ html {
 
 ### Changed the theme color
 Added the following code in `\assets\css\main.scss`
+(before any import statement)
 
-
-
-
+$primary-color: #C6913E;
 
 
 ### Added MathJax in _includes "scripts"
+in `\_includes\scripts.html`
+
+
+### Changed footer: Removed Powered by Jekyll
+in `\_includes\footer.scss`
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
 
 
 
-### Changed footer
-Removed Powered by Jekyll i
-Changed:
+
+### Changed footer: Removed Powered by Jekyll
+in `\_includes\footer.scss`
+
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
