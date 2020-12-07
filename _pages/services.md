@@ -12,21 +12,21 @@ header:
        url: "/services/#solutions" #"/nuovalo-solutions/"
 
 feature_row:
- - image_path: /assets/images/service.png
+ - image_path: /assets/images/nuovalo-modern-tontines-solutions-consulting.png
    alt: #"Bits and Bolts"
    title: "Modern Tontines Expertise"
    excerpt: "Designing just the right solution for your business"
    url: "/services/#consulting"
    btn_class: "btn--primary"
    btn_label: "Consulting"
- - image_path: /assets/images/service.png
+ - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
    alt: #"Bits and Bolts"
    title: "Modern-tontines-in-a-box"
    excerpt: "Flexible SaaS and B2B2C solutions"
    url: "/services/#solutions"
    btn_class: "btn--primary"
    btn_label: "Solutions"
- - image_path: /assets/images/service.png
+ - image_path: /assets/images/nuovalo-modern-tontines-faq.png
    alt: #"Bits and Bolts"
    title: "Any questions ?"
    excerpt: "Any questions ? We'd love to hear from you."

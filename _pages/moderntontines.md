@@ -14,21 +14,21 @@ header:
        url: "/tontines-faq/"
 
 feature_row:
- - image_path: /assets/images/service.png
+ - image_path: /assets/images/nuovalo-modern-tontines-indivuduals.png
    alt: #"Bits and Bolts"
    title: "For Individuals"
    excerpt: "Fair and flexible retirement pools at low cost"
    url: "/tontines-individuals/"
    btn_class: "btn--primary"
    btn_label: "Benefits for Individuals"
- - image_path: /assets/images/service.png
+ - image_path: /assets/images/nuovalo-modern-tontines-institutions.png
    alt: #"P2P Pension Fund"
    title: "For Institutions"
    excerpt: "Fully funded lifetime pensions"
    url: /tontines-institutions/"
    btn_class: "btn--primary"
    btn_label: "Benefits for Institutions"
- - image_path: /assets/images/service.png
+ - image_path: /assets/images/nuovalo-modern-tontines-faq.png
    alt: #"P2P Pension Fund"
    title: "Frequently asked questions"
    excerpt: "Usual questions about Modern Tontines"

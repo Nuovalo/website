@@ -63,6 +63,13 @@ html {
 }
 ```
 
+### Changed the theme color
+Added the following code in `\assets\css\main.scss`
+
+
+
+
+
 
 ### Added MathJax in _includes "scripts"
 
