@@ -25,7 +25,7 @@ feature_row:
    alt: #"P2P Pension Fund"
    title: "For Institutions"
    excerpt: "Fully funded lifetime pensions"
-   url: /tontines-institutions/"
+   url: "/tontines-institutions/"
    btn_class: "btn--primary"
    btn_label: "Benefits for Institutions"
  - image_path: /assets/images/nuovalo-modern-tontines-faq.png
