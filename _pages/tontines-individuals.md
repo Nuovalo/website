@@ -14,38 +14,35 @@ feature_row_intro:
 
 ---
 
->“If you survive your pension savings, you will be poor ! If your savings survive you that's equally inefficient"
+>“If you survive your pension savings, you will be poor! If your savings survive you, that's equally inefficient."
 
-# Why should I care about retirement planning ?
+# The retirement planning dilemma
 
-## Pension are expensive to fund - and it just got worse...
-Adequate Financial planning for retirement is one of the toughest problems to solve - and it just got worse: interests are record low and life annuities have become prohibitively expensive.    
-Even plain vanilla savings products are too expensive: an average insurance policy linked to markets will in average cost **2~3% per year**, while standard equity funds charge up to 1.5% in annual fees. Compounded over the years and horizon of retirement, John and Mary savings will be greatly diminished – and it might not even cover the increased living expenses.
+## Retirement income is expensive to fund -- and it just got worse...
+Financial planning for retirement is one of the toughest problems to solve - and it just got worse: interest rates are at record lows and life annuities have become prohibitively expensive.  
 
-## Self saving ? Yes, but planning for how long ?
+Guaranteed annuities insure against longevity risk.  But guarantees are costly, and higher costs means lower income.
 
-
-We therefore rely mostly on state pensions and on personal savings. State pensions are great but often not sufficient.
-Personal savings are not designed to cover your retirements needs, since it doesn’t integrate the uncertainty linked to one’s life. For instance, a new retiree can expect to live for 25 years in average. But if healthy, they can very well outlive the average population by 5 years, 10 years, 25 years...     
-
-## Pooling longevity
-You could decide to save twice more to be “safe”, but then you might **oversave** and miss some **present opportunities**:
-* early estate planning for kids and grandkids
-* realizing some of your dreams as young retirees…
+## Income from your investment portfolio?  How long is your planning horizon?
+Standard investments offer no longevity protection whatsoever.  Relying on them for lifetime income is both risky and inefficient.  Here’s why.  Statistically, new retirees might each expect to live for 20 to 25 more years, on average.  But they *might* live much longer, perhaps as long as 40 or 50 years!  To guard against longevity, they must either work and save longer or spend frugally early in retirement.  Either way means that they must sacrifice some of their hopes and dreams.
 
 
-# What are Fair Modern Tontines ?
-Fair Modern Tontines are a community based financial plan, pooling members with a common objectives: **transform part of their savings as a lifelong income which is protected against longevity risk**.
-Each member account is deducted to pay the **regular retirement income**, while being credited with a proportion of the deceased members account. This allows to literally “pool” the community longevity risk – and provides each member with more certainty and control for their estate planning. You can now put aside what you need for the rest life, and prepare your estate planning and realize your young retirees dreams with **total peace of mind**.
+# What are Fair Modern Tontines?
+Modern Tontines represent a community-based financial plan.  Investors take a portion of their savings and join a tontine pool with thousands of others.  The community protects its members by banding them together to *share* and *diversify* their longevity risk.  This *risk pooling* allows the tontine to provide the assurance of lifetime income, which in turn gives greater peace of mind and makes estate planning easier.  
+
+Like regular investments, members receive investment returns.  What’s different is that members also receive “longevity credits” from the pool, which represent a portion of deceased members’ accounts, and which grow significantly the longer you live.
 
 
-# What are Modern Tontines advantages ?
+# What are Modern Tontines advantages?
 
-## Community Based: minimal maintenance fee
-The Fair Modern Tontines are **community based**: the longevity risk of each member is pooled. There is no expensive guarantee to be maintained. The costs are minimal and serve only to maintain the platform.
+## Community Based: Minimal maintenance fee
+The Fair Modern Tontines are community based: the longevity risk of each member is pooled. There is no expensive guarantee to be maintained. The costs are minimal and serve only to maintain the platform.
 
 ## Transparent and Fair
-The Fair Modern Tontines are engineered to be transparent and fair by construction. The money is invested in selected funds at your discretion and at each time, you know exactly the value of your account and your share of the pool. No surprises here.
+The Fair Modern Tontines are engineered to be transparent and fair by construction. The money is invested in selected funds at your discretion and at all times, you know exactly the value of your account and your share of the pool. No surprises here.
+
+## Always Fully Funded
+Unlike traditional pensions, your Modern Tontine account is always kept in 100% fully funded status by harmonizing your payouts with *your* investment returns and the longevity experience of the community. Payouts can adjust both upward and downward over time to ensure that they will be sustainable for the rest of your life.
 
 ## Flexible and Customizable
-Oh, and did we mention it was also flexible and customizable to fit your very own personal needs ? Options are available such a joint-life option to include your spouse, top-up capabilites, outflow structure design and personalized asset allocation...
+Oh, and did we mention that Modern Tontines are also flexible and customizable to fit your personal needs? Options are available such a joint-life option to include your spouse, top-up capabilities, personalized asset allocation, the ability to select the date at which payouts begin, the rate at which you wish them to grow, etc. Those with a desire for income stability may combine a Modern Tontine account with a regular investment account that can be tapped into on occasion.
