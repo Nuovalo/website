@@ -6,10 +6,16 @@ categories:
   - Publication
 tags:
   - tontines
+
+
+header:
+  teaser: /assets/images/thumb/brooking-retirement-tontines-nuovalo.png
+
+
 classes: wide
 ---
 
-The work of Richard Fullmer and our sister company, [Nuova Lontevità Research](https://www.nuovalongevita.com), is referenced in this thoughtful policy brief published by the Brookings Institution titled [Retirement Tontines: A New Way to Finance Retirement Income](https://www.brookings.edu/wp-content/uploads/2020/10/Retirement-Security-Project-Tontines-Policy-Brief-Oct-2020.pdf).
+The work of Richard Fullmer and our sister company, [Nuova Longevità Research](https://www.nuovalongevita.com), is referenced in this thoughtful policy brief published by the Brookings Institution titled [Retirement Tontines: A New Way to Finance Retirement Income](https://www.brookings.edu/wp-content/uploads/2020/10/Retirement-Security-Project-Tontines-Policy-Brief-Oct-2020.pdf).
 
 ### Insightful quotes:
 
@@ -21,4 +27,4 @@ The work of Richard Fullmer and our sister company, [Nuova Lontevità Research](
 ### Additional links:
 [Full research paper](https://www.brookings.edu/wp-content/uploads/2020/10/Retirement-Security-Project-Tontines-Oct-2020.pdf)
 
-[Presentation](https://www.brookings.edu/events/new-tools-for-a-better-retirement-dashboards-and-tontine-solutions-for-americans/)
+[Presentation](https://www.brookings.edu/research/retirement-tontines-using-a-classical-finance-mechanism-as-an-alternative-source-of-retirement-income/)

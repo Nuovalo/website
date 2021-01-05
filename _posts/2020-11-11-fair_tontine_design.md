@@ -8,6 +8,10 @@ tags:
   - tontines
 classes: wide
 
+header:
+  teaser: /assets/images/thumb/fair-modern-tontine-fullmer-nuovalo.png
+
+
 ---
 
 Tontines are a type of investment in which the account balances of shareholders who die are forfeited, divided up, and transferred to shareholders who are still living. Exactly how they are divided up and transferred is a critical element of tontine design. Everyone should care about this whether they are investors, prospective investors, advisors, or regulators.

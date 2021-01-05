@@ -7,6 +7,11 @@ categories:
 tags:
   - tontines
 classes: wide
+
+header:
+  teaser: /assets/images/thumb/modern-tontines-annuity-research-library-nuovalo.png
+
+
 ---
 
 ## Nuovalo and Affiliated Research Partners

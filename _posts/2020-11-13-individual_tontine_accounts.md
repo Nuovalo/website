@@ -7,6 +7,11 @@ categories:
 tags:
   - tontines
 classes: wide
+
+header:
+  teaser: /assets/images/thumb/ita-yes-seriously-individual-tontine-accounts-nuovalo.png
+
+
 ---
 
 *A [version of this article](https://retirementincomejournal.com/article/individual-tontine-accounts-yes-seriously/) also appeared in the Retirement Income Journal.*

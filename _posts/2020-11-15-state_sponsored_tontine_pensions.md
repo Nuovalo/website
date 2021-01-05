@@ -7,6 +7,10 @@ categories:
 tags:
   - tontines
 classes: wide
+
+header:
+  teaser: /assets/images/thumb/georgetown-university-retirement-tontine-pensions-fullmer-nuovalo.png
+
 ---
 
 *This article [first appeared](https://cri.georgetown.edu/the-case-for-tontine-pensions-as-a-lifetime-income-solution-for-state-sponsored-retirement-savings-programs/) in the Georgetown University Center for Retirement Initiatives blog.*

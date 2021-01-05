@@ -6,6 +6,11 @@ categories:
 tags:
   - tontines
 classes: wide
+
+header:
+  teaser: /assets/images/thumb/modern-tontine-nuovalo.png
+
+
 ---
 
 Tontines, a nearly-extinct financial device invented centuries ago, are receiving fresh attention as a tool for retirement income.  We do mean *fresh* – modern tontines envisioned by economists today have evolved since the tontines of yestercentury.

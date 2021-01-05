@@ -7,6 +7,11 @@ categories:
 tags:
   - tontines
 classes: wide
+
+header:
+  teaser: /assets/images/thumb/state-pensions-private-workers-sustainable-tontine-nuovalo.png
+
+
 ---
 
 *This article, co-authored with Jonathan Barry Forman, [first appeared](https://pensionresearchcouncil.wharton.upenn.edu/blog/state-sponsored-pensions-for-private-sector-workers-a-sustainable-low-cost-approach/) in the RetireSecure Blog of the Wharton Pension Research Council.*

@@ -7,10 +7,16 @@ categories:
 tags:
   - tontines
 classes: wide
+
+
+header:
+  teaser: /assets/images/thumb/european-risk-sharing-pensions-tontine-nuovalo.png
+
+
 ---
 
 *"Tontines were wildly popular in the 18th and 19th centuries but their status suffered at the hands of fraudulent life insurers. Natalie Tuck explores whether tontines have a place within a modern European pensions system..."*  
-  
+
 Our own Tyron Fouche is quoted in this [European Pensions article](https://www.europeanpensions.net/ep/images/Q4_EP_Tontines_feature.pdf) exploring tontines and their (new) place as retirement options.  
 
 Note that while [Nuova Longevità Research](https://www.nuovalongevita.com) still exists as a research entity, our new fintech venture is now called *Nuovalo*.  

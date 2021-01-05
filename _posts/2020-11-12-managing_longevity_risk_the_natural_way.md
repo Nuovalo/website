@@ -7,6 +7,10 @@ tags:
   - tontines
 classes: wide
 
+header:
+  teaser: /assets/images/thumb/longevity-risk-tontine-nuovalo.png
+
+
 ---
 
 Benjamin Franklin once famously wrote "*… in this world nothing can be said to be certain, except death and taxes.*" ¹ True, death is indeed certain. However, the timing of death is quite uncertain.
