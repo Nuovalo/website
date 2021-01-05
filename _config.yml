@@ -99,9 +99,9 @@ author:
   location         : "Global"
   email            : "contact@nuovalo.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@nuovalo.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:contact@nuovalo.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://www.nouvalo.com"
