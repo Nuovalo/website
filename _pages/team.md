@@ -42,9 +42,10 @@ feature_row_tyron:
     alt: #"Tyron Fouche"
     title: "Partner, Head of EMEA"
     excerpt: "As a Fellow actuary and past founder of Nobuntu - a B2C tontine venture in South Africa and a Techstars accelerator graduate - Tyron is a passionate entrepreneur with a taste for solving complex problematics. His role is to drive the EMEA business operations and Nuovalo's development"
-    url: "https://www.linkedin.com/in/tyron-fouche-fia-a2a12a40/"
+    url: "https://www.linkedin.com/in/tyron-fouche-a2a12a40/"
     btn_class: "btn--primary"
     btn_label: "Tyron Fouche"
+
 
 feature_row_pascal:
   - image_path: /assets/images/team/nuovalo-modern-tontine-pascal-winter.png
@@ -55,12 +56,13 @@ feature_row_pascal:
     btn_class: "btn--primary"
     btn_label: "Pascal Winter"
 
+
 feature_row_manuel:
   - image_path: /assets/images/team/nuovalo-modern-tontine-manuel-garcia-huitron.png
     alt: #"Manuel Garcia-Huitron"
     title: "Partner, Head of Americas"
     excerpt: "With more than 20 years experience in the pension business across the world, Manuel is a leading expert in Pension design, reform and regulation. Currently in LATAM, Manuel's role is to drive the Americas business operations and Nuovalo's development"
-    url: "https://www.linkedin.com/in/manuel-garcia-huitron-0b61934/"
+    url: "https://www.linkedin.com/in/manuel-e-garcia-huitron-0b61934"
     btn_class: "btn--primary"
     btn_label: "Manuel Garcia-Huitron"
 
