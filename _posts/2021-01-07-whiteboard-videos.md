@@ -1,6 +1,6 @@
 ---
 title: "Animated Whiteboard Videos"
-excerpt: "Explore our animated whiteboard videos"
+excerpt: "Explore our animated whiteboard videos (now in both English and French)"
 categories:
   - Explainer
 tags:
@@ -24,4 +24,5 @@ Tontinas Modernas Justas (coming soon / próximamente)
 
 
 ## French
-Les Tontines Equitables Modernes (coming soon / Bientôt disponible)
+Les Tontines Equitables Modernes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUSNueS2K_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
