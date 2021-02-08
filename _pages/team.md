@@ -14,8 +14,8 @@ header:
   actions:
      - label: "Founders"
        url: "/team/#founding-team"
-    #- label: "Contact"
-    #   url: "/about/"
+     - label: "Contact Us"
+       url: "/contact/"
 
 
 feature_row_intro:
@@ -67,9 +67,6 @@ feature_row_manuel:
     btn_label: "Manuel Garcia-Huitron"
 
 
-# {% include feature_row id="feature_row_founders" type="left" %}
-# ![image-center](/assets/images/nuovalo-modern-tontines-location.png){: .align-center}
-# {% include feature_row id="feature_row_empty" type="center" %}
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}

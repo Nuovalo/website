@@ -14,7 +14,7 @@ feature_row_intro:
 
 ---
 
->“If you survive your pension savings, you will be poor! If your savings survive you, that's equally inefficient."
+>“If you survive your pension savings, you will be poor! If your savings survive you, that's equally inefficient.”
 
 # The retirement planning dilemma
 

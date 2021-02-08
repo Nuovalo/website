@@ -1,58 +1,58 @@
 ---
-layout: splash
-permalink: /modern-tontines/
-title: "Modern Tontines"
-excerpt: "Optimized lifetime pensions"
+layout: splash # archive
+permalink: /services-old/
+title: "Nuovalo Services"
+excerpt: "Serving the Global Retirement Industry"
 header:
   overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
-#  actions:
-#     - label: "For Individuals"
-#       url: "/tontines-individuals/"
-#     - label: "For Institutions"
-#       url: "/tontines-institutions/"
-#     - label: "FAQ"
-#       url: "/tontines-faq/"
+  actions:
+     - label: "Consulting"
+       url: "/services/#consulting" #"/nuovalo-consulting/"
+     - label: "Solutions"
+       url: "/services/#solutions" #"/nuovalo-solutions/"
+     - label: "Contact Us"
+       url: "/contact/"
+
 
 feature_row:
- - image_path: /assets/images/nuovalo-modern-tontines-indivuduals.png
+- image_path: /assets/images/nuovalo-modern-tontines-faq.png
+  alt: #"Bits and Bolts"
+  title: "Any questions ?"
+  excerpt: "Any questions ? We'd love to hear from you."
+  url: "/contact"
+  btn_class: "btn--primary"
+  btn_label: "Contact"
+ - image_path: /assets/images/nuovalo-modern-tontines-solutions-consulting.png
    alt: #"Bits and Bolts"
-   title: "For Individuals"
-   excerpt: "Fair and flexible retirement pools at low cost"
-   url: "/tontines-individuals/"
+   title: "Modern Tontines Expertise"
+   excerpt: "Designing just the right solution for your business"
+   url: "/services/#consulting"
    btn_class: "btn--primary"
-   btn_label: "Benefits for Individuals"
- - image_path: /assets/images/nuovalo-modern-tontines-institutions.png
-   alt: #"P2P Pension Fund"
-   title: "For Institutions"
-   excerpt: "Fully funded lifetime pensions"
-   url: "/tontines-institutions/"
+   btn_label: "Consulting"
+ - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
+   alt: #"Bits and Bolts"
+   title: "Modern-tontines-in-a-box"
+   excerpt: "Flexible SaaS and B2B2C solutions"
+   url: "/services/#solutions"
    btn_class: "btn--primary"
-   btn_label: "Benefits for Institutions"
- - image_path: /assets/images/nuovalo-modern-tontines-faq.png
-   alt: #"P2P Pension Fund"
-   title: "Frequently asked questions"
-   excerpt: "Usual questions about Modern Tontines"
-   url: "/tontines-faq/"
-   btn_class: "btn--primary"
-   btn_label: "FAQs"
+   btn_label: "Solutions"
 
 ---
->**“The Tontine is perhaps the most discredited financial instrument in history”**
-<br>
-Edward Chancellor
-<br>
-<small>The Spectator, Vol. 286, No. 9007, 24 March 2001</small>
 
 {% include feature_row id="feature_row" %}
 
-{% include video id="KMwsw3Pq8rs" provider="youtube" %}
 
+# Consulting
+Nuovalo’s consulting services help policymakers, regulators, and financial services companies evaluate the pros and cons of tontines relative to other products and to evaluate the pros and cons of various retirement income approaches and to evaluate various tontine designs.
+{: .text-justify}
 
+Our consulting team can engage with you on tontine finance education, modeling outcomes, developing asset and product allocation strategies, or designing just the right solution for your business.
+{: .text-justify}
 
+Tontine design involves a carefully crafted blend of actuarial science and investment strategy, and we offer both.  Our consulting clients include both governments and businesses.  We take pride in providing unbiased research and unbiased opinions.
+{: .text-justify}
 
-
-
-# Tontine Pensions
+# Solutions
 Tontine pensions can provide assured lifetime income at lower cost than existing solutions. They do this by collectively pooling longevity risk among their members, rather than concentrating it all as a liability to be borne by a plan sponsor or third-party insurer.  By eliminating the overhead associated with liability hedging and insurance, fees are low and completely transparent.
 {: .text-justify}
 

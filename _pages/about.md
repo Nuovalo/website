@@ -2,32 +2,46 @@
 layout: single # archive
 author_profile: true
 permalink: /about/
-title: "About Us"
+title: "About Nuovalo"
 classes: wide
 header:
   overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
+  actions:
+     - label: "Team"
+       url: "/team/"
+     - label: "Contact Us"
+       url: "/contact/"
+
 
 ---
 
-## About Nuovalo
+# About Nuovalo
 
 [**Nuovalo Ltd.**](/) is a fintech/insurtech company specializing in sustainable retirement pension solutions through longevity-risk sharing, as with tontines and collective defined contribution (CDC) schemes.
 {: .text-justify}
 
-We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.
+>We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.
 {: .text-justify}
 
 Indeed, research is in our DNA… and in case you didn’t notice, **Nuovalo** is short for **Nuova Longevità**. We like the name, which means *New Longevity* in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
 {: .text-justify}
 
+<br>
 
-## Solutions Platform
 
-Nuovalo Tontine Solutions is a global solutions provider of longevity risk-sharing design and technology services.  Our solutions provide the assurance of pension-like lifetime income more efficiently than existing solutions by eliminating the high costs associated with guarantees and risk transfer.  We don’t simply offer a product, we offer a flexible solutions platform that enables asset managers, insurers, and pension plans to design a customized set of retirement portfolio accumulation and decumulation solutions of their own.
+# Solutions Platform
+
+> Our solutions provide the assurance of pension-like lifetime income more efficiently than existing solutions by eliminating the high costs associated with guarantees and risk transfer.
 {: .text-justify}
 
+Nuovalo Tontine Solutions is a global solutions provider of longevity risk-sharing design and technology services.
+{: .text-justify}
+We don’t simply offer a product, we offer a flexible solutions platform that enables asset managers, insurers, and pension plans to design a customized set of retirement portfolio accumulation and decumulation solutions of their own.
+{: .text-justify}
 
-## Nuovalo and Affiliated Research Partners
+<br>
+
+# Nuovalo and Affiliated Research Partners
 
 [State-sponsored Pensions for Private Sector Workers: The Case for Pooled Annuities and Tontines.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers)
 Fullmer, R. K. and Forman, J. B. (2020). Wharton Pension Research Council Working Papers.
