@@ -15,14 +15,13 @@ header:
 ---
 
 ## English
-Modern Fair Tontines
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KMwsw3Pq8rs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
+Modern Fair Tontines:
+{% include video id="KMwsw3Pq8rs" provider="youtube" %}
 
 ## Spanish
 Tontinas Modernas Justas (coming soon / próximamente)
 
 
 ## French
-Les Tontines Equitables Modernes
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QUSNueS2K_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+Les Tontines Equitables Modernes:
+{% include video id="QUSNueS2K_k" provider="youtube" %}

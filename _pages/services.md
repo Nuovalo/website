@@ -10,19 +10,7 @@ header:
        url: "/contact/"
 
 
-feature_row_intro:
-- image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
-  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
-  excerpt: "*...and what if this solution included:*<br><br>
-    [Superior **customer returns** and **transparency** ?](/modern-tontines/)
-    <br>
-    [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
-    <br>
-    [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
-    <br>
-    [and **Lower capital** requirement ?](/modern-tontines/)
-    <br>
-     "
+
 
 
 
@@ -91,7 +79,7 @@ feature_row_solution:
 
 ---
 
-{% include feature_row id="feature_row_intro" type="center" %}
+
 
 
 {% include feature_row id="feature_row" %}

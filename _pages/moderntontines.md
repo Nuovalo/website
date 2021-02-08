@@ -13,6 +13,26 @@ header:
 #     - label: "FAQ"
 #       url: "/tontines-faq/"
 
+
+
+feature_row_ksp:
+- #image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
+ title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+ excerpt: "*...and what if this solution included:*<br><br>
+   [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+   <br>
+   [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+   <br>
+   [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+   <br>
+   [**Lower capital** requirement ?](/modern-tontines/)
+   <br>
+    "
+
+
+
+
+
 feature_row:
  - image_path: /assets/images/nuovalo-modern-tontines-indivuduals.png
    alt: #"Bits and Bolts"
@@ -36,14 +56,40 @@ feature_row:
    btn_class: "btn--primary"
    btn_label: "FAQs"
 
----
->**“The Tontine is perhaps the most discredited financial instrument in history”**
-<br>
-Edward Chancellor
-<br>
-<small>The Spectator, Vol. 286, No. 9007, 24 March 2001</small>
 
-{% include feature_row id="feature_row" %}
+
+feature_row_painpoint:
+ - image_path: /assets/images/nuovalo-modern-tontine-hardest-problem-decumulation.png
+   title: "Retirement Portfolio Decumulation: “The nastiest, hardest problem in finance” - William Sharpe"
+   excerpt: ">“If you survive your pension savings, you will be poor!
+             <br>
+             If your savings survive you, that's equally inefficient.”
+
+
+             Indeed ! And **low interest rates** with **increased longevity** won't help.
+             <br>
+             Let's address the **retirement crisis** with practical solutions.
+             "
+   url: "modern-tontines/#the-global-retirement-challenge"
+   btn_class: "btn--primary"
+   btn_label: "The Retirement Challenge"
+
+
+
+
+#>**“The Tontine is perhaps the most discredited financial instrument in history”**
+#<br>
+#Edward Chancellor
+#<br>
+#<small>The Spectator, Vol. 286, No. 9007, 24 March 2001</small>
+
+
+---
+
+
+
+{% include feature_row id="feature_row_ksp" type="center" %}
+{% include feature_row id="feature_row_painpoint" type="left" %}
 
 {% include video id="KMwsw3Pq8rs" provider="youtube" %}
 
