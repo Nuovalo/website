@@ -12,8 +12,6 @@ header:
 
 
 
-
-
 feature_row:
  - image_path: /assets/images/nuovalo-modern-tontines-faq.png
    title: "Training & Workshops"
@@ -75,6 +73,26 @@ feature_row_solution:
            "
 
 
+feature_row_dots:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  excerpt: "<br>"
+
+feature_row_ksp:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  excerpt: "*...and this solution included:*<br><br>
+   [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+   <br>
+   [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+   <br>
+   [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+   <br>
+   [**Lower capital** requirement ?](/modern-tontines/)
+   <br>
+    "
+
+
+
 
 
 ---
@@ -92,3 +110,9 @@ feature_row_solution:
 
 # Modern-Tontines-in-a-Box Solution
 {% include feature_row id="feature_row_solution" type="left" %}
+
+
+
+
+{% include feature_row id="feature_row_ksp" type="center" %}
+{% include video id="KMwsw3Pq8rs" provider="youtube" %}

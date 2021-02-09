@@ -18,6 +18,7 @@ header:
        url: "/contact/"
 
 
+
 feature_row_intro:
   - image_path: /assets/images/nuovalo-modern-tontines-location2.png #/assets/images/nuovalo-gear-name.png
     alt: #"Nuovalo World Map"
@@ -26,6 +27,12 @@ feature_row_intro:
     # url: "https://www.linkedin.com/in/richard-fullmer-b4b00a2/"
     # btn_class: "btn--primary"
     # btn_label: "Contact Us"
+
+
+feature_row_dots:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  #title: "AAAAAAAAA"
+  excerpt: "<br>"
 
 
 feature_row_richard:
@@ -67,15 +74,38 @@ feature_row_manuel:
     btn_label: "Manuel Garcia-Huitron"
 
 
+
+feature_row_ksp:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  excerpt: "*...and this solution included:*<br><br>
+  [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+  <br>
+  [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+  <br>
+  [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+  <br>
+  [**Lower capital** requirement ?](/modern-tontines/)
+  <br>
+   "
+
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
 
+
+
 # Founding Team
-{% include feature_row id="feature_row_empty" type="center" %}
+<br>
 
 {% include feature_row id="feature_row_richard" type="left" %}
 {% include feature_row id="feature_row_tyron" type="right" %}
 {% include feature_row id="feature_row_pascal" type="left" %}
 {% include feature_row id="feature_row_manuel" type="right" %}
+
+
+
+
+{% include feature_row id="feature_row_ksp" type="center" %}
+{% include video id="KMwsw3Pq8rs" provider="youtube" %}

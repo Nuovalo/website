@@ -18,16 +18,14 @@ header:
        url: "/contact/"
 
 
-
-
-
 feature_row_service:
  - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
    title: "We help asset managers fully unlock the underserved retirement market"
    excerpt: "> Tontines Training, Design and Implementation with the world's foremost tontine practitioners and academics.
 
 
-          Our services extend from training to cutting edge product design and actuarial simulations. We also provide a modular SAAS platform so you can hit the ground running.
+          Our services extend from training to cutting edge product design and actuarial simulations.
+          We also provide a modular SAAS platform so you can hit the ground running.
          "
          #>“What If Financial Institutions could tap much deeper into the **Underserved Retirement Market** ?”
    url: "/services/"
@@ -35,39 +33,18 @@ feature_row_service:
    btn_label: "Nuovalo Services"
 
 
-
-
-feature_row_ksp:
-- #image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
- title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
- excerpt: "*...and what if this solution included:*<br><br>
-   [Superior **customer returns** and **transparency** ?](/modern-tontines/)
-   <br>
-   [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
-   <br>
-   [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
-   <br>
-   [**Lower capital** requirement ?](/modern-tontines/)
-   <br>
-    "
-
-
-
-
 feature_row_tontines:
   - image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
     title: "Modern Tontine risk-sharing" #"Fully funded lifetime income at low cost"
     excerpt:
-          " >“As it turns out, everything we need to know about building a perfect retirement product we learned in kindergarten. **Life is better when you share**.” - [Michael Finke](https://www.thinkadvisor.com/2015/07/02/milevskys-bold-plan-to-reinvent-retirement-income/)
+          "Modern Tontines provide better returns and transparency with flexible payouts, benefits and asset allocation. They are sustainable schemes, always fully funded, generating lower capital requirement with limited risk undertakings.
 
 
-            Modern Tontines provide better returns and transparency with flexible payouts, benefits and asset allocation. They are sustainable schemes, always fully funded, generating lower capital requirement with limited risk undertakings.
+          >“As it turns out, everything we need to know about building a perfect retirement product we learned in kindergarten. **Life is better when you share**.” - [Michael Finke](https://www.thinkadvisor.com/2015/07/02/milevskys-bold-plan-to-reinvent-retirement-income/)
           "
     url: "/modern-tontines/"
     btn_class: "btn--primary"
     btn_label: "Modern Tontines"
-
-
 
 
 
@@ -89,6 +66,26 @@ feature_row_team:
 
 
 
+feature_row_dots:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  excerpt: "<br>"
+
+
+
+feature_row_ksp:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  excerpt: "*...and this solution included:*<br><br>
+   [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+   <br>
+   [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+   <br>
+   [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+   <br>
+   [**Lower capital** requirement ?](/modern-tontines/)
+   <br>
+    "
+
 ---
 
 
@@ -100,7 +97,5 @@ feature_row_team:
 
 
 
-
-{% include video id="KMwsw3Pq8rs" provider="youtube" %}
-
 {% include feature_row id="feature_row_ksp" type="center" %}
+{% include video id="KMwsw3Pq8rs" provider="youtube" %}

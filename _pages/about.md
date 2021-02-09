@@ -13,7 +13,27 @@ header:
        url: "/contact/"
 
 
+feature_row_dots:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  excerpt: "<br>"
+
+feature_row_ksp:
+- #image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  excerpt: "*...and this solution included:*<br><br>
+  [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+  <br>
+  [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+  <br>
+  [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+  <br>
+  [**Lower capital** requirement ?](/modern-tontines/)
+  <br>
+   "
+
+
 ---
+
 
 # About Nuovalo
 
@@ -27,7 +47,7 @@ Indeed, research is in our DNA… and in case you didn’t notice, **Nuovalo** i
 {: .text-justify}
 
 <br>
-
+{% include feature_row id="feature_row_dots" type="center" %}
 
 # Solutions Platform
 
@@ -40,6 +60,7 @@ We don’t simply offer a product, we offer a flexible solutions platform that e
 {: .text-justify}
 
 <br>
+{% include feature_row id="feature_row_dots" type="center" %}
 
 # Nuovalo and Affiliated Research Partners
 
@@ -66,3 +87,10 @@ Forman, J. B. and Sabin, M. J. (2015). University of Pennsylvania Law Review, 17
 
 [Fair tontine annuity.](https://ssrn.com/abstract=1579932)
 Sabin, M. J. (March 26, 2010). SSRN.
+
+
+
+<br>
+{% include feature_row id="feature_row_dots" type="center" %}
+{% include feature_row id="feature_row_ksp" type="center" %}
+{% include video id="KMwsw3Pq8rs" provider="youtube" %}

@@ -9,6 +9,22 @@ header:
 
 
 
+
+feature_row_ksp:
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  excerpt: "*...and this solution included:*<br><br>
+  [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+  <br>
+  [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+  <br>
+  [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+  <br>
+  [**Lower capital** requirement ?](/modern-tontines/)
+  <br>
+   "
+
+
 ---
 
 
@@ -43,3 +59,9 @@ header:
 
 Alternatively, you can contact us at:    
 Email: [contact@nuovalo.com](mailto:contact@nuovalo.com)
+
+
+<br><br>
+
+{% include feature_row id="feature_row_ksp" type="center" %}
+{% include video id="KMwsw3Pq8rs" provider="youtube" %}
