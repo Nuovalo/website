@@ -27,7 +27,7 @@ A fundamental principle of tontines is that their design should be fair to all i
 A game or bet is fair to all parties if each party’s expected gain is zero. Consider the classic coin flip in which a player wins (say 1 USD) if the coin lands on heads, and loses (say, 1 USD) if it lands on tails. There is a 50% chance of each outcome and thus the expected gain is:
 {: .text-justify}
 
-$$\frac{1}{2}.1 - \frac{1}{2}.1 = 0$$
+$$\frac{1}{2} \cdot 1 - \frac{1}{2} \cdot 1 = 0$$
 {: .align-center}
 
 If the expected gain were greater than zero, the player would have an advantage. Similarly, if the expected gain were less than zero, the player have a disadvantage.
@@ -36,7 +36,7 @@ If the expected gain were greater than zero, the player would have an advantage.
 Now say that the game involves rolling a six-sided die in which the player wins with a roll of 6 and loses otherwise. The game is fair when wins pay five times more than losses, because the expected gain in that case is:       
 {: .text-justify}
 
-$$\frac{1}{6}.5 - \frac{5}{6}.1 = 0$$
+$$\frac{1}{6} \cdot 5 - \frac{5}{6} \cdot 1 = 0$$
 {: .align-center}
 
 

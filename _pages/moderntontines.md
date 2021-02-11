@@ -7,50 +7,42 @@ header:
   overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
 
 
-
-
 feature_row_benefits:
  - image_path: /assets/images/nuovalo-modern-tontines-indivuduals.png
-   title: "Longevity Insurance"
-   excerpt: "> Modern Tontines solve the Retirement Challenge by pooling the Longevity risk of each members.
+   title: "Longevity Protection"
+   excerpt: "> Modern Tontines solve the retirement challenge by pooling longevity risk.<br><br>
 
-
-              By design, Modern Tontines allow flexible contributions, personalized benefit outgo schemes - *lifetime and term-specific, immediate or deferred* - optional joint-ownership and possibility of bequest.
+              By design, Modern Tontines allow flexible contributions, personalized benefit options — lifetime or term-specific, immediate or deferred — optional joint-ownership, and the possibility of a bequest.
               <br><br>
-              It is suitable to both pre-retirement saving (accumulation) and post-retirement income (decumulation).
+              It is suitable for both pre-retirement saving (accumulation) and post-retirement income (decumulation).
             "
+
  - image_path: /assets/images/nuovalo-modern-tontine-fully-funded-pension-low-cost.png
    title: "Superior Returns"
-   excerpt: "> By combining traditional Asset Returns with Longevity credits, Modern Tontines are competitive tools in the retirement ecosystem. Coupled with no guarantee charge and streamlined administration fees - their net return is unbeatable.
-
-
-              With individualized fully funded schemes - Asset Allocations can be personalized by each members to fit their retirement plan, investment preferences and financial fluency.
+   excerpt: "> By combining traditional asset returns with longevity credits that are uncorrelated to those returns, Modern Tontines are competitive tools in the retirement ecosystem. With streamlined administration fees no guarantee charges, their net return is unbeatable.
+   <br><br>
+              With individualized fully funded schemes, asset allocation can be personalized to fit each investor's needs, investment preferences, and financial fluency.
               "
 
  - image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
-   title: "Efficient P2P Pool"
-   excerpt: ">Nuovalo's Actuarial techniques and methods ensure fairness and facilitate the distribution of assured lifetime income to each participant. Our designs are transparent, sustainable and always fully funded.
+   title: "Efficient P2P Pooling"
+   excerpt: ">Nuovalo's actuarial techniques and methods ensure fairness and facilitate the distribution of assured lifetime income to each participant. Our designs are transparent, sustainable and always fully funded.
 
-
-              The pooling of longevity is self-insured - resulting in no guarantee fees for the members and no liability for the carrier. The efficiency of the schemes provide much lower administrative burden.
-              <br>
-              This in turns translates in low risk, low capital requirement and low fees.
+              The pooling of longevity is collectively self-insured, resulting in no guarantee fees for the members and no guarantee-related liability exposure to the provider.
+              <br><br>
+              Modern tontines offer low capital requirements and a low administrative burden, allowing financial institutions to offer lifetime income at low cost.
               "
-
-
-
 
 feature_row_painpoint:
  - image_path: /assets/images/nuovalo-modern-tontine-hardest-problem-decumulation.png
-   title: "Retirement Portfolio Decumulation: “The nastiest, hardest problem in finance” - William Sharpe"
+   title: "Retirement Portfolio Decumulation: “The nastiest, hardest problem in finance” — William Sharpe"
    excerpt: ">“If you survive your pension savings, you will be poor!
              <br>
-             If your savings survive you, that's equally inefficient.”
-
-
+             If your savings survive you, that's equally inefficient.” — Jose Herce
+             <br><br>
              Indeed ! And **low interest rates** with **increased longevity** won't help.
              <br>
-             Let's address the **retirement crisis** with practical solutions.
+             This is the motivation behind our mission to address the **retirement crisis** with efficient, practical solutions.
              "
 #   url: "modern-tontines/#the-global-retirement-challenge"
 #   btn_class: "btn--primary"
@@ -60,35 +52,34 @@ feature_row_painpoint:
 feature_row_features:
  - image_path: /assets/images/nuovalo-modern-tontines-solutions-consulting.png
    title: "A Modular and Flexible Design"
-   excerpt: "**Modern Tontines are highly modular, allowing:**<br>
-            Flexible Contribution <br>
-            Customizable Benefit Outgo scheme <br>
-            Heterogeneous Population <br>
-            Individual Asset Allocation Preferences <br>
-            Single & Joint Life ownership <br>
-            Possibility of Bequest   <br>
-             "
-
-
-
-
-
-
+   excerpt: "
+            Flexible contributions <br>
+            Highly customizable benefit and payout options <br>
+            Heterogeneous membership pools <br>
+            Perpetual (open-end) pools or fixed-membership (closed-end) pools <br>
+            Individualized asset allocation <br>
+            Single & joint life ownership <br>
+            Possibility of bequest <br>
+            "
 
 
 feature_row_ksp:
 - image_path: /assets/images/nuovalo-modern-tontines-dots2.png
-  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  title: "What if Financial Institutions could tap much deeper into the underserved retirement market ?"
   excerpt: "*...and this solution included:*<br><br>
-  [Superior **customer returns** and **transparency** ?](/modern-tontines/)
-  <br>
-  [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
-  <br>
-  [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
-  <br>
-  [**Lower capital** requirement ?](/modern-tontines/)
-  <br>
-   "
+   **Low costs**
+   <br>
+   **Superior returns**
+   <br>
+   **Individualized** payouts and asset allocation
+   <br>
+   High **transparency**
+   <br>
+   **Lower capital** requirements
+   <br><br>
+   ...and was **fully funded** and **forever sustainable** ?
+   <br>
+    "
 
 
 
@@ -106,7 +97,6 @@ feature_row_ksp:
 {% include feature_row id="feature_row_benefits" %}
 {% include feature_row id="feature_row_painpoint" type="right" %}
 {% include feature_row id="feature_row_features" type="left" %}
-
 
 
 {% include feature_row id="feature_row_ksp" type="center" %}

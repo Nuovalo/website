@@ -18,32 +18,33 @@ feature_row_dots:
   excerpt: "<br>"
 
 feature_row_ksp:
-- #image_path: /assets/images/nuovalo-modern-tontines-dots2.png
-  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+  title: "What if Financial Institutions could tap much deeper into the underserved retirement market ?"
   excerpt: "*...and this solution included:*<br><br>
-  [Superior **customer returns** and **transparency** ?](/modern-tontines/)
-  <br>
-  [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
-  <br>
-  [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
-  <br>
-  [**Lower capital** requirement ?](/modern-tontines/)
-  <br>
-   "
-
+   **Low costs**
+   <br>
+   **Superior returns**
+   <br>
+   **Individualized** payouts and asset allocation
+   <br>
+   High **transparency**
+   <br>
+   **Lower capital** requirements
+   <br><br>
+   ...and was **fully funded** and **forever sustainable** ?
+   <br>
+    "
 
 ---
-
 
 # About Nuovalo
 
 [**Nuovalo Ltd.**](/) is a fintech/insurtech company specializing in sustainable retirement pension solutions through longevity-risk sharing, as with tontines and collective defined contribution (CDC) schemes.
 {: .text-justify}
 
->We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.
-{: .text-justify}
-
-Indeed, research is in our DNA… and in case you didn’t notice, **Nuovalo** is short for **Nuova Longevità**. We like the name, which means *New Longevity* in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
+>We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.  
+<br>
+Indeed, research is in our DNA… in case you didn’t notice, **Nuovalo** is short for **Nuova Longevità**. We like the name, which means *New Longevity* in Italian, because it embraces our spirit of bringing new and innovative solutions to the lifetime income challenge.
 {: .text-justify}
 
 <br>
@@ -56,7 +57,7 @@ Indeed, research is in our DNA… and in case you didn’t notice, **Nuovalo** i
 
 Nuovalo Tontine Solutions is a global solutions provider of longevity risk-sharing design and technology services.
 {: .text-justify}
-We don’t simply offer a product, we offer a flexible solutions platform that enables asset managers, insurers, and pension plans to design a customized set of retirement portfolio accumulation and decumulation solutions of their own.
+We don’t merely offer a product; we offer a flexible solutions platform that enables asset managers, insurers, and pension plans to design a customized set of retirement portfolio accumulation and decumulation solutions of their own.
 {: .text-justify}
 
 <br>
@@ -89,8 +90,6 @@ Forman, J. B. and Sabin, M. J. (2015). University of Pennsylvania Law Review, 17
 Sabin, M. J. (March 26, 2010). SSRN.
 
 
-
 <br>
-{% include feature_row id="feature_row_dots" type="center" %}
 {% include feature_row id="feature_row_ksp" type="center" %}
 {% include video id="KMwsw3Pq8rs" provider="youtube" %}

@@ -20,7 +20,7 @@ header:
 
 
 feature_row_intro:
-  - image_path: /assets/images/nuovalo-modern-tontines-location2.png #/assets/images/nuovalo-gear-name.png
+  - image_path: /assets/images/nuovalo-modern-tontines-location3.png #/assets/images/nuovalo-gear-name.png
     alt: #"Nuovalo World Map"
     title: "Natively Global"
     excerpt: "Founded in 2020 by Modern Tontines enthusiasts around the world, Nuovalo is inherently global, just like the pension underfunding problem we aim to solve"
@@ -39,7 +39,7 @@ feature_row_richard:
   - image_path: /assets/images/team/nuovalo-modern-tontine-richard-fullmer.png #nuovalo-team-rf.png
     alt: #"Richard Fullmer"
     title: "Managing Partner"
-    excerpt: "After a long career in insurance and asset management, Richard founded [**Nuova Longevità Research**](https://www.nuovalongevita.com/) and helped pioneer the Modern Tontine mechanism in collaboration with fellow researchers Michael Sabin and Jonathan Forman. After producing several publications on the subject, Richard assembled the Nuovalo team with the aim to make modern tontines a practical alternative to conventional pensions and portfolio drawdown approaches."
+    excerpt: "After a long career in insurance and asset management, Richard founded [**Nuova Longevità Research**](https://www.nuovalongevita.com/) and helped pioneer the Modern Tontine mechanism in collaboration with fellow researchers Michael Sabin and Jonathan Forman. After producing several publications on the subject, Richard assembled the Nuovalo team to make modern tontines a practical alternative to conventional pensions and portfolio drawdown approaches."
     url: "https://www.linkedin.com/in/richard-fullmer-b4b00a2/"
     btn_class: "btn--primary"
     btn_label: "Richard Fullmer"
@@ -58,7 +58,7 @@ feature_row_pascal:
   - image_path: /assets/images/team/nuovalo-modern-tontine-pascal-winter.png
     alt: #"Pascal Winter"
     title: "Partner, Actuarial Technology"
-    excerpt: "As a qualified French actuary with 15 years insurance experience across Asia, various managerial level positions and strong taste for technology, Pascal was naturally attracted by the simplicity and efficiency of Modern Tontines. His role is to implement Modern Tontines Services and to drive Nuovalo's development"
+    excerpt: "As a qualified French actuary with 15 years of insurance experience across Asia, various managerial level positions and strong taste for technology, Pascal was naturally attracted by the simplicity and efficiency of Modern Tontines. His role is to implement Modern Tontines Services and to drive Nuovalo's development"
     url: "https://www.linkedin.com/in/pascal-winter-b90099a1"
     btn_class: "btn--primary"
     btn_label: "Pascal Winter"
@@ -68,7 +68,7 @@ feature_row_manuel:
   - image_path: /assets/images/team/nuovalo-modern-tontine-manuel-garcia-huitron.png
     alt: #"Manuel Garcia-Huitron"
     title: "Partner, Head of Americas"
-    excerpt: "With more than 20 years experience in the pension business across the world, Manuel is a leading expert in Pension design, reform and regulation. Currently in LATAM, Manuel's role is to drive the Americas business operations and Nuovalo's development"
+    excerpt: "With over 20 years of experience in the pension business globally, Manuel is a leading expert in pension design, reform, and regulation. Manuel's role is to drive the Americas business operations and Nuovalo's global strategy."
     url: "https://www.linkedin.com/in/manuel-e-garcia-huitron-0b61934"
     btn_class: "btn--primary"
     btn_label: "Manuel Garcia-Huitron"
@@ -77,23 +77,26 @@ feature_row_manuel:
 
 feature_row_ksp:
 - image_path: /assets/images/nuovalo-modern-tontines-dots2.png
-  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  title: "What if Financial Institutions could tap much deeper into the underserved retirement market ?"
   excerpt: "*...and this solution included:*<br><br>
-  [Superior **customer returns** and **transparency** ?](/modern-tontines/)
-  <br>
-  [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
-  <br>
-  [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
-  <br>
-  [**Lower capital** requirement ?](/modern-tontines/)
-  <br>
-   "
+   **Low costs**
+   <br>
+   **Superior returns**
+   <br>
+   **Individualized** payouts and asset allocation
+   <br>
+   High **transparency**
+   <br>
+   **Lower capital** requirements
+   <br><br>
+   ...and was **fully funded** and **forever sustainable** ?
+   <br>
+    "
+
 
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
-
-
 
 
 # Founding Team
@@ -103,8 +106,6 @@ feature_row_ksp:
 {% include feature_row id="feature_row_tyron" type="right" %}
 {% include feature_row id="feature_row_pascal" type="left" %}
 {% include feature_row id="feature_row_manuel" type="right" %}
-
-
 
 
 {% include feature_row id="feature_row_ksp" type="center" %}

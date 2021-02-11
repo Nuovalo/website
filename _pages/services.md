@@ -10,47 +10,46 @@ header:
        url: "/contact/"
 
 
-
-
 feature_row:
  - image_path: /assets/images/nuovalo-modern-tontines-faq.png
    title: "Training & Workshops"
-   excerpt: "Dive into Modern Tontines benefits"
+   excerpt: "Dive into the possibilities of Modern Tontines"
    url: "/services/#training--workshops"
    btn_class: "btn--primary"
    btn_label: "Events"
+
  - image_path: /assets/images/nuovalo-modern-tontines-solutions-consulting.png
-   title: "Modern Tontines Consulting"
+   title: "Modern Tontine Consulting"
    excerpt: "Designing just the right solution for your business"
-   url: "/services/#modern-tontines-consulting"
+   url: "/services/#modern-tontine-consulting"
    btn_class: "btn--primary"
    btn_label: "Consulting"
+
  - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
    title: "Modern-tontines-in-a-box"
    excerpt: "Flexible SaaS and B2B2C solutions"
-   url: "/services/#modern-tontines-in-a-box"
+   url: "/services/#modern-tontines-in-a-box-solution"
    btn_class: "btn--primary"
    btn_label: "Solutions"
 
 
-
 feature_row_training:
  - image_path: /assets/images/nuovalo-modern-tontines-faq.png
-   title: "Dive into Modern Tontines benefits"
+   title: "Dive into Modern Tontines"
    excerpt: "
-      >“Led by [**Richard Fullmer**](/team/#founding-team), Nuovalo's team is pioneering [**Modern Tontine practical implementation research**](/about/#nuovalo-and-affiliated-research-partners)
+      >Led by [**Richard Fullmer**](/team/#founding-team), Nuovalo's team is pioneering [**Modern Tontine practical implementation research**](/about/#nuovalo-and-affiliated-research-partners)
       <br>
 
 
-        With a carefully crafted blend of actuarial science and investment strategy, we offer unbiased research and unbiased opinions.
-        We can design trainings and workshops adapted to your needs with bespoke thought leadership material.
-            "
+      We offer unbiased research and unbiased opinions with a carefully crafted blend of actuarial science and investment strategy.
+      We can design trainings and workshops adapted to your needs with bespoke thought leadership material.
+      "
 
 feature_row_consult:
  - image_path: /assets/images/nuovalo-modern-tontines-solutions-consulting.png
    title: "Designing just the right solution for your business"
    excerpt: "
-      >“We support **financial services players** to assess various retirement income approaches, evaluate the pros and cons of **Modern Tontines** relative to other products and to **design** workable and sustainable retirement solutions.
+      >We support **financial services players** to assess various retirement income approaches, evaluate the pros and cons of **Modern Tontines** relative to other products and to **design** workable and sustainable retirement solutions.
       <br>
 
 
@@ -58,18 +57,17 @@ feature_row_consult:
             "
 
 
-
 feature_row_solution:
 - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
   title: "Flexible SaaS and B2B2C solutions"
   excerpt: "
-     >“From Front-end to Back-end, Nuovalo's technology supports pre-onboarding, onboarding and management of Modern Tontines with a dedicated SaaS infrastructure.
+     >From Front-end to Back-end, Nuovalo's technology supports pre-onboarding, onboarding, and management of Modern Tontines with a dedicated SaaS infrastructure.
      <br>
 
 
-       The front-end SaaS system we envision includes pre-onboarding simulations, seamless onboarding, dedicated account management and key information disclosure modules.
+       The front-end SaaS system includes pre-onboarding decision tools (including payout projections), seamless onboarding, dedicated account management, and key information disclosure modules.
        <br><br>
-       The back-end SaaS system englobes the recording, execution and reporting of Modern Tontines operation such as new subscriptions, asset allocation modification, longevity credit allocation, survival status checks and benefits payments.  
+       The back-end SaaS system includes calculating, executing, recording, and reporting of all tontine-related transactions such as new subscriptions, asset allocation modifications, longevity credit reallocations, survival status checks, and benefits payments.  
            "
 
 
@@ -77,27 +75,26 @@ feature_row_dots:
 - image_path: /assets/images/nuovalo-modern-tontines-dots2.png
   excerpt: "<br>"
 
+
 feature_row_ksp:
 - image_path: /assets/images/nuovalo-modern-tontines-dots2.png
-  title: "What If Financial Institutions could tap much deeper into the Underserved Retirement Market ?"
+  title: "What if Financial Institutions could tap much deeper into the underserved retirement market ?"
   excerpt: "*...and this solution included:*<br><br>
-   [Superior **customer returns** and **transparency** ?](/modern-tontines/)
+   **Low costs**
    <br>
-   [**Individualized** payouts, benefits and asset allocation ?](/modern-tontines/)
+   **Superior returns**
    <br>
-   [**Fully-funded** and **Sustainable** schemes ?](/modern-tontines/)
+   **Individualized** payouts and asset allocation
    <br>
-   [**Lower capital** requirement ?](/modern-tontines/)
+   High **transparency**
+   <br>
+   **Lower capital** requirements
+   <br><br>
+   ...and was **fully funded** and **forever sustainable** ?
    <br>
     "
 
-
-
-
-
 ---
-
-
 
 
 {% include feature_row id="feature_row" %}
@@ -105,13 +102,11 @@ feature_row_ksp:
 # Training & Workshops
 {% include feature_row id="feature_row_training" type="left" %}
 
-# Modern Tontines Consulting
+# Modern Tontine Consulting
 {% include feature_row id="feature_row_consult" type="left" %}
 
 # Modern-Tontines-in-a-Box Solution
 {% include feature_row id="feature_row_solution" type="left" %}
-
-
 
 
 {% include feature_row id="feature_row_ksp" type="center" %}

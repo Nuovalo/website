@@ -8,7 +8,7 @@ tags:
 classes: wide
 
 header:
-  teaser: /assets/images/thumb/modern-tontine-nuovalo.png
+  teaser: /assets/images/thumb/nuovalo-flow-1359872-1279x852.png
 
 
 ---
