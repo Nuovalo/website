@@ -35,7 +35,7 @@ feature_row_benefits:
 
    Nuovalo's actuarial techniques ensure the fair distribution of lifetime income. Our designs are transparent, sustainable and always fully funded.
    <br><br>
-   Since the collective pooling of longevity is self-insured, there is no guarantee fees for the members and no guarantee-related liability for the provider.
+   Since the collective pooling of longevity is self-insured, there are no guarantee fees for the members and no guarantee-related liability for the provider.
               "
 
 feature_row_painpoint:
