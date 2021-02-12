@@ -69,7 +69,7 @@ feature_row_insights:
     excerpt:
         "Tontines are perhaps one the most misunderstood concepts in all finance. Discover the ancient history and modern potential of tontine finance as applied to the global retirement challenge.
 
-        >“If most of what you know about tontines came from a fictional novel, a film, a newspaper article, or an episode of The Simpsons, rest assured that you are not the only one. But this does not have to be the case... The fair tontine principle is more versatile than you might think.”<br> — [Tontines: A Practitioner’s Guide to Morality-Pooled Investments](https://www.cfainstitute.org/-/media/documents/article/rf-brief/fullmer-tontines-rf-brief.ashx)
+        >“If most of what you know about tontines came from a fictional novel, a film, a newspaper article, or an episode of The Simpsons, rest assured that you are not the only one. But this does not have to be the case... The fair tontine principle is more versatile than you might think.”<br> — [Tontines: A Practitioner’s Guide to Mortality-Pooled Investments](https://www.cfainstitute.org/-/media/documents/article/rf-brief/fullmer-tontines-rf-brief.ashx)
         <br>
         "
     url: "/insights/"
