@@ -10,7 +10,8 @@ header:
 feature_row_benefits:
  - image_path: /assets/images/nuovalo-modern-tontines-indivuduals.png
    title: "Longevity Protection"
-   excerpt: "> Modern Tontines solve the retirement challenge by pooling longevity risk.<br><br>
+   excerpt: "> Modern Tontines solve the retirement challenge by pooling longevity risk.
+
 
               By design, Modern Tontines allow flexible contributions, personalized benefit options — lifetime or term-specific, immediate or deferred — optional joint-ownership, and the possibility of a bequest.
               <br><br>
@@ -19,18 +20,22 @@ feature_row_benefits:
 
  - image_path: /assets/images/nuovalo-modern-tontine-fully-funded-pension-low-cost.png
    title: "Superior Returns"
-   excerpt: "> By combining traditional asset returns with longevity credits that are uncorrelated to those returns, Modern Tontines are competitive tools in the retirement ecosystem. With streamlined administration fees no guarantee charges, their net return is unbeatable.
-   <br><br>
-              With individualized fully funded schemes, asset allocation can be personalized to fit each investor's needs, investment preferences, and financial fluency.
+   excerpt: ">With individualized fully funded schemes, asset allocation can be personalized to fit each investor's needs, investment preferences, and financial fluency.
+
+
+          By combining traditional asset returns with longevity credits that are uncorrelated to those returns, Modern Tontines are competitive tools in the retirement ecosystem.
+          <br><br>
+          With streamlined administration fees and no guarantee charges, their net return is unbeatable.
               "
 
  - image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
    title: "Efficient P2P Pooling"
-   excerpt: ">Nuovalo's actuarial techniques and methods ensure fairness and facilitate the distribution of assured lifetime income to each participant. Our designs are transparent, sustainable and always fully funded.
+   excerpt: ">Modern tontines offer low capital requirements and a low administrative burden, allowing financial institutions to offer lifetime income at low cost.
 
-              The pooling of longevity is collectively self-insured, resulting in no guarantee fees for the members and no guarantee-related liability exposure to the provider.
-              <br><br>
-              Modern tontines offer low capital requirements and a low administrative burden, allowing financial institutions to offer lifetime income at low cost.
+
+   Nuovalo's actuarial techniques ensure the fair distribution of lifetime income. Our designs are transparent, sustainable and always fully funded.
+   <br><br>
+   Since the collective pooling of longevity is self-insured, there is no guarantee fees for the members and no guarantee-related liability for the provider.
               "
 
 feature_row_painpoint:
@@ -38,8 +43,9 @@ feature_row_painpoint:
    title: "Retirement Portfolio Decumulation: “The nastiest, hardest problem in finance” — William Sharpe"
    excerpt: ">“If you survive your pension savings, you will be poor!
              <br>
-             If your savings survive you, that's equally inefficient.” — Jose Herce
-             <br><br>
+             If your savings survive you, that's equally inefficient.” — Jose Herce         
+
+
              Indeed ! And **low interest rates** with **increased longevity** won't help.
              <br>
              This is the motivation behind our mission to address the **retirement crisis** with efficient, practical solutions.
