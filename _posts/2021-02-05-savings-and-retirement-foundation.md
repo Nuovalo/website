@@ -11,11 +11,16 @@ header:
   teaser: /assets/images/thumb/nuovalo-state-capital-rotunda.png
 
 
+#  ### Embedded Presentation:
 
-#  ### Direct Download Link:
-#  [*State-sponsored tontine pension solutions*]({{ "/assets/docs/srf-slides-state-sponsored-pensions.pdf" | relative_url }}){: .btn .btn--inverse}
+#  <object data="/assets/docs/srf-slides-state-sponsored-pensions.pdf" width="1000" height="1000" type='application/pdf'/></object>
+
+
+
 # <embed src="/assets/docs/srf-slides-state-sponsored-pensions.pdf#view=Fit" type="application/pdf"/>
-# <object data="/assets/docs/srf-slides-state-sponsored-pensions.pdf" width="1000" height="1000" type='application/pdf'/></object>
+# {% pdf "/assets/docs/srf-slides-state-sponsored-pensions.pdf" no_link %}
+
+
 ---
 
 
@@ -25,6 +30,5 @@ We presented our research, conducted jointly with professor Jonathan Forman of t
 The basis for the presentation can be found in [this paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers) that discusses the concept and the research. The general idea is that a simple tontine-based solution that delivers assured lifetime income could be added as an option to virtually any defined contribution (DC) plan. This solution could help provide retirement income security for millions of private-sector workers who currently lack pension coverage, with minimal risk to the government as sponsor.
 {: .text-justify}
 
-
-### Embedded Presentation:
-{% pdf "/assets/docs/srf-slides-state-sponsored-pensions.pdf" no_link %}
+### Direct Download Link:
+[*State-sponsored tontine pension solutions*]({{ "/assets/docs/srf-slides-state-sponsored-pensions.pdf" | relative_url }}){: .btn .btn--inverse}
