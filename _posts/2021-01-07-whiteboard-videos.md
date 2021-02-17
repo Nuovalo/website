@@ -19,8 +19,8 @@ Modern Fair Tontines:
 {% include video id="KMwsw3Pq8rs" provider="youtube" %}
 
 ## Spanish
-Tontinas Modernas Justas (coming soon / próximamente)
-
+Tontinas Modernas Justas
+{% include video id="FyiV5saPsDo" provider="youtube" %}
 
 ## French
 Les Tontines Equitables Modernes:
