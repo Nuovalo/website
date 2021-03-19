@@ -10,10 +10,12 @@ main:
     url: /team/
   - title: "Insights"
     url: /insights/
+#  - title: "Simulators"
+#    url: /simulators/
   - title: "About"
     url: /about/
-#  - title: "Contact"
-#    url: /contact/
+  - title: "Contact"
+    url: /contact/
 
 
   # - title: "About"
