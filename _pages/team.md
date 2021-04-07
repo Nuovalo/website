@@ -69,7 +69,7 @@ feature_row_manuel:
     alt: #"Manuel Garcia-Huitron"
     title: "Partner, Head of Americas"
     excerpt: "With over 20 years of experience in the pension business globally, Manuel is a leading expert in pension design, reform, and regulation. Manuel's role is to drive the Americas business operations and Nuovalo's global strategy."
-    url: "https://www.linkedin.com/in/manuel-e-garcia-huitron-0b61934"
+    url: "https://www.linkedin.com/in/manuel-garcia-huitron-0b61934"
     btn_class: "btn--primary"
     btn_label: "Manuel Garcia-Huitron"
 
