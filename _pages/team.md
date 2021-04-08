@@ -99,13 +99,17 @@ feature_row_ksp:
 {% include feature_row id="feature_row_intro" type="center" %}
 
 
-# Founding Team
+# Founders
 <br>
 
 {% include feature_row id="feature_row_richard" type="left" %}
-{% include feature_row id="feature_row_tyron" type="right" %}
 {% include feature_row id="feature_row_pascal" type="left" %}
 {% include feature_row id="feature_row_manuel" type="right" %}
+<br>
+
+# Advisors
+<br>
+{% include feature_row id="feature_row_tyron" type="right" %}
 
 
 {% include feature_row id="feature_row_ksp" type="center" %}
