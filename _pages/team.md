@@ -47,8 +47,8 @@ feature_row_richard:
 feature_row_tyron:
   - image_path: /assets/images/team/nuovalo-modern-tontine-tyron-fouche.png
     alt: #"Tyron Fouche"
-    title: "Partner, Head of EMEA"
-    excerpt: "As a Fellow actuary and past founder of Nobuntu - a B2C tontine venture in South Africa and a Techstars accelerator graduate - Tyron is a passionate entrepreneur with a taste for solving complex problematics. His role is to drive the EMEA business operations and Nuovalo's development"
+    title: "Advisor"
+    excerpt: "As a Fellow actuary and past founder of Nobuntu - a B2C tontine venture in South Africa and a Techstars accelerator graduate - Tyron is a passionate entrepreneur with a taste for solving complex problematics. His role is to foster the EMEA business operations and Nuovalo's development"
     url: "https://www.linkedin.com/in/tyron-fouche-a2a12a40/"
     btn_class: "btn--primary"
     btn_label: "Tyron Fouche"
@@ -103,8 +103,8 @@ feature_row_ksp:
 <br>
 
 {% include feature_row id="feature_row_richard" type="left" %}
-{% include feature_row id="feature_row_pascal" type="left" %}
-{% include feature_row id="feature_row_manuel" type="right" %}
+{% include feature_row id="feature_row_pascal" type="right" %}
+{% include feature_row id="feature_row_manuel" type="left" %}
 <br>
 
 # Advisors
