@@ -1,6 +1,6 @@
 ---
 title: "Animated Whiteboard Videos"
-excerpt: "Explore our animated whiteboard videos (now in both English and French)"
+excerpt: "Explore our animated whiteboard videos (in English, French, and Spanish!)"
 categories:
   - Explainer
 tags:
