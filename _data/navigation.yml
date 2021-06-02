@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Modern Tontines"
+  - title: "Modern Tontine Finance"
     url: /modern-tontines/
   - title: "Services"
     url: /services/

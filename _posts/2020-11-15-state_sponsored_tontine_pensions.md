@@ -41,7 +41,7 @@ Compared with commercial annuities, assurance funds would provide lifetime incom
 In a world with substantial levels of undersaving, economic efficiency is vital. Defined benefit pensions are slowly disappearing while many of those that remain suffer from chronic underfunding, prompting concerns about sustainability. Assurance fund income would not be fixed and it would not be guaranteed. Rather, it would be variable and nonguaranteed. But it would always be *fully funded* and, therefore, *fully sustainable* … forever.
 
 
-Richard K. Fullmer is founder of [Nuova Longevità Research](https://www.nuovalongevita.com) and [Nuovalo Tontine Solutions](https://www.nuovalo.com).
+Richard K. Fullmer is founder of [Nuova Longevità Research](https://www.nuovalongevita.com) and cofounder of [Nuovalo Longevity Income Solutions](https://www.nuovalo.com).
 
 Jonathan Barry Forman is Kenneth E. McAfee Centennial Chair in Law at the University of Oklahoma College of Law.
 

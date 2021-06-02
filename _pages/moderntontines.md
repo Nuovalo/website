@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /modern-tontines/
-title: "Modern Tontines"
-excerpt: "Optimized lifetime pensions"
+title: "Modern Tontine Finance"
+excerpt: "Truly Efficient lifetime pensions"
 header:
   overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
 
@@ -10,10 +10,10 @@ header:
 feature_row_benefits:
  - image_path: /assets/images/nuovalo-modern-tontines-indivuduals.png
    title: "Longevity Protection"
-   excerpt: "> Modern Tontines solve the retirement challenge by pooling longevity risk.
+   excerpt: "> The principle of Modern Tontine Finance solves the retirement challenge by pooling longevity risk.
 
 
-              By design, Modern Tontines allow flexible contributions, personalized benefit options — lifetime or term-specific, immediate or deferred — optional joint-ownership, and the possibility of a bequest.
+              By design, modern longevity risk pooling allows flexible contributions, personalized benefit options (for example, lifetime or term-specific, immediate or deferred), optional joint-ownership, and the possibility of a bequest.
               <br><br>
               It is suitable for both pre-retirement saving (accumulation) and post-retirement income (decumulation).
             "
@@ -23,14 +23,15 @@ feature_row_benefits:
    excerpt: ">With individualized fully funded schemes, asset allocation can be personalized to fit each investor's needs, investment preferences, and financial fluency.
 
 
-          By combining traditional asset returns with longevity credits that are uncorrelated to those returns, Modern Tontines are competitive tools in the retirement ecosystem.
+          By combining traditional asset returns with longevity credits that are uncorrelated to those returns, the principle of
+          Modern Tontine Finance represents a powerful tool within the retirement ecosystem.
           <br><br>
-          With streamlined administration fees and no guarantee charges, their net return is unbeatable.
+          With streamlined administration fees and no guarantee charges, the net return is unbeatable.
               "
 
  - image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
    title: "Efficient P2P Pooling"
-   excerpt: ">Modern tontines offer low capital requirements and a low administrative burden, allowing financial institutions to offer lifetime income at low cost.
+   excerpt: ">Modern Tontine Finance offers low capital requirements and a low administrative burden, allowing financial institutions to offer lifetime income at low cost.
 
 
    Nuovalo's actuarial techniques ensure the fair distribution of lifetime income. Our designs are transparent, sustainable and always fully funded.

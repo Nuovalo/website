@@ -13,7 +13,9 @@ header:
   overlay_image: /assets/images/nuovalo-modern-tontines-banner.png
   actions:
      - label: "Founders"
-       url: "/team/#founding-team"
+       url: "/team/#founders"
+     - label: "Advisors"
+       url: "/team/#advisors"
      - label: "Contact Us"
        url: "/contact/"
 
@@ -23,7 +25,7 @@ feature_row_intro:
   - image_path: /assets/images/nuovalo-modern-tontines-location3.png #/assets/images/nuovalo-gear-name.png
     alt: #"Nuovalo World Map"
     title: "Natively Global"
-    excerpt: "Founded in 2020 by Modern Tontines enthusiasts around the world, Nuovalo is inherently global, just like the pension underfunding problem we aim to solve"
+    excerpt: "Founded in 2020 by Modern Tontine Finance and Longevity Risk-Sharing enthusiasts around the world, Nuovalo is inherently global, just like the pension underfunding problem we aim to solve"
     # url: "https://www.linkedin.com/in/richard-fullmer-b4b00a2/"
     # btn_class: "btn--primary"
     # btn_label: "Contact Us"
@@ -38,16 +40,17 @@ feature_row_dots:
 feature_row_richard:
   - image_path: /assets/images/team/nuovalo-modern-tontine-richard-fullmer.png #nuovalo-team-rf.png
     alt: #"Richard Fullmer"
-    title: "Managing Partner"
-    excerpt: "After a long career in insurance and asset management, Richard founded [**Nuova Longevità Research**](https://www.nuovalongevita.com/) and helped pioneer the Modern Tontine mechanism in collaboration with fellow researchers Michael Sabin and Jonathan Forman. After producing several publications on the subject, Richard assembled the Nuovalo team to make modern tontines a practical alternative to conventional pensions and portfolio drawdown approaches."
+    title: "Richard Fullmer, Managing Partner and Chief Executive"
+    excerpt: "After a long career in insurance and asset management, Richard founded [**Nuova Longevità Research**](https://www.nuovalongevita.com/) and helped pioneer the field of Modern Tontine Finance in collaboration with fellow researchers Michael Sabin and Jonathan Forman. After producing several publications on the subject, Richard assembled the Nuovalo team to make modern tontines a practical alternative to conventional pensions and portfolio drawdown approaches."
     url: "https://www.linkedin.com/in/richard-fullmer-b4b00a2/"
     btn_class: "btn--primary"
     btn_label: "Richard Fullmer"
 
+
 feature_row_tyron:
   - image_path: /assets/images/team/nuovalo-modern-tontine-tyron-fouche.png
     alt: #"Tyron Fouche"
-    title: "Advisor"
+    title: "Tyron Fouche, Advisor"
     excerpt: "As a Fellow actuary and past founder of Nobuntu - a B2C tontine venture in South Africa and a Techstars accelerator graduate - Tyron is a passionate entrepreneur with a taste for solving complex problematics. His role is to foster the EMEA business operations and Nuovalo's development"
     url: "https://www.linkedin.com/in/tyron-fouche-a2a12a40/"
     btn_class: "btn--primary"
@@ -57,7 +60,7 @@ feature_row_tyron:
 feature_row_pascal:
   - image_path: /assets/images/team/nuovalo-modern-tontine-pascal-winter.png
     alt: #"Pascal Winter"
-    title: "Partner, Actuarial Technology"
+    title: "Pascal Winter, Partner, Chief Actuary, and Acting Chief Technology Officer"
     excerpt: "As a qualified French actuary with 15 years of insurance experience across Asia, various managerial level positions and strong taste for technology, Pascal was naturally attracted by the simplicity and efficiency of Modern Tontines. His role is to implement Modern Tontines Services and to drive Nuovalo's development"
     url: "https://www.linkedin.com/in/pascal-winter-b90099a1"
     btn_class: "btn--primary"
@@ -67,12 +70,31 @@ feature_row_pascal:
 feature_row_manuel:
   - image_path: /assets/images/team/nuovalo-modern-tontine-manuel-garcia-huitron.png
     alt: #"Manuel Garcia-Huitron"
-    title: "Partner, Head of Americas"
+    title: "Manuel Garcia-Huitron, Partner and Chief of Global Strategy and Expansion"
     excerpt: "With over 20 years of experience in the pension business globally, Manuel is a leading expert in pension design, reform, and regulation. Manuel's role is to drive the Americas business operations and Nuovalo's global strategy."
     url: "https://www.linkedin.com/in/manuel-garcia-huitron-0b61934"
     btn_class: "btn--primary"
     btn_label: "Manuel Garcia-Huitron"
 
+
+feature_row_michael_sabin:
+  - image_path: /assets/images/team/nuovalo-modern-tontine-MJS.png
+    alt: #"Michael J. Sabin"
+    title: "Michael Sabin, Actuarial Advisor"
+    excerpt: "Michael Sabin is a giant of modern tontine research.  His groundbreaking work includes major innovations in actuarially-fair tontine design and the mathematical methods to support it."
+    url: "https://ssrn.com/author=1456260"
+    btn_class: "btn--primary"
+    btn_label: "Michael J. Sabin"
+
+
+feature_row_jonathan_forman:
+  - image_path: /assets/images/team/nuovalo-modern-tontine-JBF.png
+    alt: #"Jonathan Barry Forman"
+    title: "Jonathan Forman, Legal and Regulatory Advisor"
+    excerpt: "Professor Jonathan Barry Forman is the Kenneth E. McAfee Centennial Chair in Law at the University of Oklahoma, where he teaches courses on tax and pension law. Professor Forman served in Washington, DC, as the Professor in Residence for the Internal Revenue Service Office of Chief Counsel for the 2009–2010 academic year, and he was a member of the Board of Trustees of the Oklahoma Public Employees Retirement System (OPERS) from 2003 through 2011. He has written extensively on the legal and regulatory considerations of tontine pensions."
+    url: "https://www.law.ou.edu/directory/jonathan-forman"
+    btn_class: "btn--primary"
+    btn_label: "Jonathan Barry Forman"
 
 
 feature_row_ksp:
@@ -110,6 +132,8 @@ feature_row_ksp:
 # Advisors
 <br>
 {% include feature_row id="feature_row_tyron" type="right" %}
+{% include feature_row id="feature_row_michael_sabin" type="left" %}
+{% include feature_row id="feature_row_jonathan_forman" type="right" %}
 
 
 {% include feature_row id="feature_row_ksp" type="center" %}

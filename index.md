@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Nuovalo Tontine Solutions"
+title: "Nuovalo Longevity Income Solutions"
 
 
 excerpt: Modern longevity risk sharing architecture and technology
@@ -21,7 +21,8 @@ header:
 feature_row_service:
  - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
    title: "We help financial institutions unlock the underserved retirement market"
-   excerpt: "> Training, Research, Consulting, Design, and Implementation with the world's foremost tontine practitioners and academics.
+   excerpt: "> Training, Research, Consulting, Design, and Implementation with the world's foremost experts on longevity risk sharing
+             and mortality-pooled investments.
 
 
           Our services extend from training to cutting edge research, product design, and actuarial modeling.
@@ -37,14 +38,14 @@ feature_row_tontines:
   - image_path: /assets/images/nuovalo-modern-tontine-p2p-advantage-flexibility.png
     title: "Modern longevity risk sharing" #"Fully funded lifetime income at low cost"
     excerpt:
-          "Modern Tontines provide better returns and can be designed flexibly with customizable payout options and individualized asset allocation. They are always fully funded (and thus truly sustainable) and have low capital requirements since they assure lifetime income without the use of third-party insurance, making them a limited-risk undertaking to the provider.
+          "Modern Tontines (or collective longevity risk-sharing pools or whatever one wishes to call them) provide better returns and can be designed flexibly with customizable payout options and individualized asset allocation. They are always fully funded (and thus truly sustainable) and have low capital requirements since they assure lifetime income without the use of third-party insurance, making them a limited-risk undertaking to the provider.
 
 
           >“As it turns out, everything we need to know about building a perfect retirement product we learned in kindergarten. **Life is better when you share**.” — [Michael Finke](https://www.thinkadvisor.com/2015/07/02/milevskys-bold-plan-to-reinvent-retirement-income/)
           "
     url: "/modern-tontines/"
     btn_class: "btn--primary"
-    btn_label: "Modern Tontines"
+    btn_label: "Modern Tontine Finance"
 
 
 feature_row_team:
@@ -53,7 +54,9 @@ feature_row_team:
     excerpt: "
     At Nuovalo, we are passionate about solving **retirement inefficiencies** through Expertise, Innovation, and Technology
 
-        >Modern Fair Tontine design and implementation pioneering
+        >Innovators of mortality-pooled investments that provide lifetime income
+        <br>
+        Modern Fair Tontine design and implementation pioneering
         <br>
         Extensive pension and investment expertise with a global presence
         <br>
@@ -65,9 +68,9 @@ feature_row_team:
 
 feature_row_insights:
   - image_path: /assets/images/nuovalo-modern-tontine-hardest-problem-decumulation.png
-    title: "Learn about tontines"
+    title: "Learn about mortality-pooled investments and longevity risk-sharing"
     excerpt:
-        "Tontines are perhaps one the most misunderstood concepts in all finance. Discover the ancient history and modern potential of tontine finance as applied to the global retirement challenge.
+        "The tontine principle is perhaps one the most misunderstood concepts in all finance. Discover the ancient history and modern potential of tontine finance as applied to the global retirement challenge.
 
         >“If most of what you know about tontines came from a fictional novel, a film, a newspaper article, or an episode of The Simpsons, rest assured that you are not the only one. But this does not have to be the case... The fair tontine principle is more versatile than you might think.”<br> — [Tontines: A Practitioner’s Guide to Mortality-Pooled Investments](https://www.cfainstitute.org/-/media/documents/article/rf-brief/fullmer-tontines-rf-brief.ashx)
         <br>

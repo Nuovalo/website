@@ -39,7 +39,7 @@ feature_row_ksp:
 
 # About Nuovalo
 
-[**Nuovalo Ltd.**](/) is a fintech/insurtech company specializing in sustainable retirement pension solutions through longevity-risk sharing, as with tontines and collective defined contribution (CDC) schemes.
+[**Nuovalo Ltd.**](/) is a fintech/insurtech/pensiontech company specializing in sustainable retirement pension solutions through longevity-risk sharing, such as with tontines and collective defined contribution (CDC) schemes.
 {: .text-justify}
 
 >We are a sister company to [**Nuova Longevità Research**](https://www.nuovalongevita.com/), a leading pioneer of modern tontine research and design.  
@@ -55,7 +55,7 @@ Indeed, research is in our DNA… in case you didn’t notice, **Nuovalo** is sh
 > Our solutions provide the assurance of pension-like lifetime income more efficiently than existing solutions by eliminating the high costs associated with guarantees and risk transfer.
 {: .text-justify}
 
-Nuovalo Tontine Solutions is a global solutions provider of longevity risk-sharing design and technology services.
+Nuovalo Longevity Income Solutions is a global solutions provider of longevity risk-sharing design and technology services.
 {: .text-justify}
 We don’t merely offer a product; we offer a flexible solutions platform that enables asset managers, insurers, and pension plans to design a customized set of retirement portfolio accumulation and decumulation solutions of their own.
 {: .text-justify}
@@ -64,6 +64,18 @@ We don’t merely offer a product; we offer a flexible solutions platform that e
 {% include feature_row id="feature_row_dots" type="center" %}
 
 # Nuovalo and Affiliated Research Partners
+
+Tontines and Collective Annuities: Lessons from an International Surveys.
+Turner, J. A., Fullmer, R. K., and Forman, J. B. (2021 forthcoming). Working Paper.
+
+A Sustainable, Variable Lifetime Income Solution for Chile.
+Fuentes, O., Fullmer, R. K., and Garcia Huitron, M. (2021 forthcoming). Working Paper.
+
+[State-sponsored Pensions for Private Sector Workers: The Case for Pooled Annuities and Tontines.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers)
+Fullmer, R. K. and Forman, J. B. (2020). Wharton Pension Research Council Working Papers.
+
+[Modern Tontines.](http://www.ressources-actuarielles.net/EXT/ISFA/1226.nsf/9c8e3fd4d8874d60c1257052003eced6/55f3745f636094edc125855b00320de4/$FILE/Tontines_Article_v1.8.0.pdf)
+Winter, P. and Planchet, F. (2020). Working paper.
 
 [State-sponsored Pensions for Private Sector Workers: The Case for Pooled Annuities and Tontines.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers)
 Fullmer, R. K. and Forman, J. B. (2020). Wharton Pension Research Council Working Papers.
@@ -77,16 +89,19 @@ Fullmer, R. K. (2019). Charlottesville, VA: CFA Institute Research Institute.
 [Tontine Bond Ladders.](https://ssrn.com/abstract=3373251)
 Fullmer, R. K. and Sabin, M. J. (April 16, 2019). SSRN.
 
-[The analytics of a single-period tontine.](https://ssrn.com/abstract=2874160)
+[The Analytics of a Single-Period Tontine.](https://ssrn.com/abstract=2874160)
 Sabin, M. J. and Forman, J. B. (November 9, 2016). SSRN.
 
-[Survivor funds.](https://digitalcommons.pace.edu/plr/vol37/iss1/7)
+[Survivor Funds.](https://digitalcommons.pace.edu/plr/vol37/iss1/7)
 Forman, J. B. and Sabin, M. J. (2016). Pace Law Review, 37(1).
 
 [Tontine Pensions.](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9471&context=penn_law_review)
 Forman, J. B. and Sabin, M. J. (2015). University of Pennsylvania Law Review, 173(3):755-831.
 
-[Fair tontine annuity.](https://ssrn.com/abstract=1579932)
+[A Fast Bipartite Algorithm for Fair Tontines.](https://ssrn.com/abstract=1848737)
+Sabin, M. J. (May 22, 2011). SSRN.
+
+[Fair Tontine Annuity.](https://ssrn.com/abstract=1579932)
 Sabin, M. J. (March 26, 2010). SSRN.
 
 

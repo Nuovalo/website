@@ -40,6 +40,6 @@ All told, these state-sponsored assurance-fund pensions could provide lifetime i
 
 This article, co-authored with Jonathan Barry Forman, [first appeared](https://pensionresearchcouncil.wharton.upenn.edu/blog/state-sponsored-pensions-for-private-sector-workers-a-sustainable-low-cost-approach/) in the RetireSecure Blog of the Wharton Pension Research Council.
 
-Richard K. Fullmer is founder of [Nuova Longevità Research](https://www.nuovalongevita.com) and [Nuovalo Tontine Solutions](https://www.nuovalo.com).
+Richard K. Fullmer is founder of [Nuova Longevità Research](https://www.nuovalongevita.com) and cofounder of [Nuovalo Longevity Income Solutions](https://www.nuovalo.com).
 
 Jonathan Barry Forman is the Kenneth E. McAfee Centennial Chair in Law at the University of Oklahoma College of Law.

@@ -20,7 +20,7 @@ title                    : "Nuovalo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nuovalo"
-description              : "Tontine Solutions"
+description              : "Longevity Income Solutions"
 url                      : "https://www.nuovalo.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"  # the subpath of your site, e.g. "/blog"
 repository               : nuovalo/website #pascal-winter/website2 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : #"Nuovalo"
   avatar           : "/assets/images/nuovalo-gear.png"
-  bio              : "Modern Tontine Solutions"
+  bio              : "Modern Longevity Income Solutions"
   location         : "Global"
   email            : "contact@nuovalo.com"
   links:
