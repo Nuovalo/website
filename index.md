@@ -22,7 +22,7 @@ feature_row_service:
  - image_path: /assets/images/nuovalo-modern-tontine-service-retirement-industry.png
    title: "We help financial institutions unlock the underserved retirement market"
    excerpt: "> Training, Research, Consulting, Design, and Implementation with the world's foremost experts on longevity risk sharing
-             and mortality-pooled investments.
+             and longevity-pooled investments.
 
 
           Our services extend from training to cutting edge research, product design, and actuarial modeling.
@@ -54,7 +54,7 @@ feature_row_team:
     excerpt: "
     At Nuovalo, we are passionate about solving **retirement inefficiencies** through Expertise, Innovation, and Technology
 
-        >Innovators of mortality-pooled investments that provide lifetime income
+        >Innovators of longevity-pooled investments that provide lifetime income
         <br>
         Modern Fair Tontine design and implementation pioneering
         <br>
@@ -68,7 +68,7 @@ feature_row_team:
 
 feature_row_insights:
   - image_path: /assets/images/nuovalo-modern-tontine-hardest-problem-decumulation.png
-    title: "Learn about mortality-pooled investments and longevity risk-sharing"
+    title: "Learn about longevity risk-sharing and longevity-pooled investments"
     excerpt:
         "The tontine principle is perhaps one the most misunderstood concepts in all finance. Discover the ancient history and modern potential of tontine finance as applied to the global retirement challenge.
 
