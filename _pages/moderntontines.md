@@ -88,14 +88,21 @@ feature_row_ksp:
    <br>
     "
 
-
+feature_row_videointros:
+- excerpt: "Our videos are available in the following languages
+  <br>
+  [English](https://www.youtube.com/watch?v=KMwsw3Pq8rs)
+  <br>
+  [Spanish](https://www.youtube.com/watch?v=FyiV5saPsDo)
+  <br>
+  [French](https://www.youtube.com/watch?v=QUSNueS2K_k)
+  "
 
 #>**“The Tontine is perhaps the most discredited financial instrument in history”**
 #<br>
 #Edward Chancellor
 #<br>
 #<small>The Spectator, Vol. 286, No. 9007, 24 March 2001</small>
-
 
 ---
 
@@ -105,6 +112,6 @@ feature_row_ksp:
 {% include feature_row id="feature_row_painpoint" type="right" %}
 {% include feature_row id="feature_row_features" type="left" %}
 
-
 {% include feature_row id="feature_row_ksp" type="center" %}
 {% include video id="KMwsw3Pq8rs" provider="youtube" %}
+{% include feature_row id="feature_row_videointros" type="center" %}

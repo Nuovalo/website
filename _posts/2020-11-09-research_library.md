@@ -16,6 +16,15 @@ header:
 
 ## Nuovalo and Affiliated Research Partners
 
+Tontines and Collective Annuities: Lessons from an International Surveys.
+Turner, J. A., Fullmer, R. K., and Forman, J. B. (2021 forthcoming). Working Paper.
+
+A Sustainable, Variable Lifetime Income Solution for Chile.
+Fuentes, O., Fullmer, R. K., and Garcia Huitron, M. (2021 forthcoming). Working Paper.
+
+[Modern Tontines.](http://www.ressources-actuarielles.net/EXT/ISFA/1226.nsf/9c8e3fd4d8874d60c1257052003eced6/55f3745f636094edc125855b00320de4/$FILE/Tontines_Article_v1.8.0.pdf)
+Winter, P. and Planchet, F. (2020). Working paper.
+
 [State-sponsored Pensions for Private Sector Workers: The Case for Pooled Annuities and Tontines.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers)
 Fullmer, R. K. and Forman, J. B. (2020). Wharton Pension Research Council Working Papers.
 

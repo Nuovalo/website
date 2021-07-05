@@ -59,9 +59,3 @@ feature_row_ksp:
 
 Alternatively, you can contact us at:    
 Email: [contact@nuovalo.com](mailto:contact@nuovalo.com)
-
-
-<br><br>
-
-{% include feature_row id="feature_row_ksp" type="center" %}
-{% include video id="KMwsw3Pq8rs" provider="youtube" %}

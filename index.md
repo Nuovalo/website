@@ -103,8 +103,17 @@ feature_row_ksp:
    <br>
     "
 
----
+feature_row_videointros:
+- excerpt: "Our videos are available in the following languages
+  <br>
+  [English](https://www.youtube.com/watch?v=KMwsw3Pq8rs)
+  <br>
+  [Spanish](https://www.youtube.com/watch?v=FyiV5saPsDo)
+  <br>
+  [French](https://www.youtube.com/watch?v=QUSNueS2K_k)
+  "
 
+---
 
 {% include feature_row id="feature_row_service" type="left" %}
 {% include feature_row id="feature_row_tontines" type="right" %}
@@ -112,4 +121,6 @@ feature_row_ksp:
 {% include feature_row id="feature_row_insights" type="right" %}
 
 {% include feature_row id="feature_row_ksp" type="center" %}
+
 {% include video id="KMwsw3Pq8rs" provider="youtube" %}
+{% include feature_row id="feature_row_videointros" type="center" %}

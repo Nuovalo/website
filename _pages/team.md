@@ -134,7 +134,3 @@ feature_row_ksp:
 {% include feature_row id="feature_row_tyron" type="right" %}
 {% include feature_row id="feature_row_michael_sabin" type="left" %}
 {% include feature_row id="feature_row_jonathan_forman" type="right" %}
-
-
-{% include feature_row id="feature_row_ksp" type="center" %}
-{% include video id="KMwsw3Pq8rs" provider="youtube" %}

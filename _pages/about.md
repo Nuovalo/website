@@ -35,6 +35,16 @@ feature_row_ksp:
    <br>
     "
 
+feature_row_videointros:
+- excerpt: "Our videos are available in the following languages
+  <br>
+  [English](https://www.youtube.com/watch?v=KMwsw3Pq8rs)
+  <br>
+  [Spanish](https://www.youtube.com/watch?v=FyiV5saPsDo)
+  <br>
+  [French](https://www.youtube.com/watch?v=QUSNueS2K_k)
+  "
+
 ---
 
 # About Nuovalo
@@ -71,9 +81,6 @@ Turner, J. A., Fullmer, R. K., and Forman, J. B. (2021 forthcoming). Working Pap
 A Sustainable, Variable Lifetime Income Solution for Chile.
 Fuentes, O., Fullmer, R. K., and Garcia Huitron, M. (2021 forthcoming). Working Paper.
 
-[State-sponsored Pensions for Private Sector Workers: The Case for Pooled Annuities and Tontines.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers)
-Fullmer, R. K. and Forman, J. B. (2020). Wharton Pension Research Council Working Papers.
-
 [Modern Tontines.](http://www.ressources-actuarielles.net/EXT/ISFA/1226.nsf/9c8e3fd4d8874d60c1257052003eced6/55f3745f636094edc125855b00320de4/$FILE/Tontines_Article_v1.8.0.pdf)
 Winter, P. and Planchet, F. (2020). Working paper.
 
@@ -104,7 +111,6 @@ Sabin, M. J. (May 22, 2011). SSRN.
 [Fair Tontine Annuity.](https://ssrn.com/abstract=1579932)
 Sabin, M. J. (March 26, 2010). SSRN.
 
-
-<br>
 {% include feature_row id="feature_row_ksp" type="center" %}
 {% include video id="KMwsw3Pq8rs" provider="youtube" %}
+{% include feature_row id="feature_row_videointros" type="center" %}
