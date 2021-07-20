@@ -22,7 +22,7 @@ header:
 
 
 feature_row_intro:
-  - image_path: /assets/images/nuovalo-modern-tontines-location3.png #/assets/images/nuovalo-gear-name.png
+  - image_path: /assets/images/nuovalo-modern-tontines-location4.png #/assets/images/nuovalo-gear-name.png
     alt: #"Nuovalo World Map"
     title: "Natively Global"
     excerpt: "Founded in 2020 by Modern Tontine Finance and Longevity Risk-Sharing enthusiasts around the world, Nuovalo is inherently global, just like the pension underfunding problem we aim to solve"
