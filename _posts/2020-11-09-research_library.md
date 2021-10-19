@@ -16,14 +16,17 @@ header:
 
 ## Nuovalo and Affiliated Research Partners
 
-Tontines and Collective Annuities: Lessons from an International Surveys.
-Turner, J. A., Fullmer, R. K., and Forman, J. B. (2021 forthcoming). Working Paper.
+Robo Tontines.
+Turner, J. A. and Fullmer, R. K. (2021 forthcoming). Working Paper.
+
+[Tontines and Collective Annuities: Lessons from an International Surveys.](https://store.lexisnexis.com/products/new-york-university-review-of-employee-benefits-and-executive-compensation-skuusSku13700322)
+Turner, J. A., Fullmer, R. K., and Forman, J. B. (2021). New York University Review of Employee Benefits and Executive Compensation - 2021 § 4 (David Pratt ed., LexisNexis Matthew Bender).
 
 A Sustainable, Variable Lifetime Income Solution for Chile.
 Fuentes, O., Fullmer, R. K., and Garcia Huitron, M. (2021 forthcoming). Working Paper.
 
-[Modern Tontines.](http://www.ressources-actuarielles.net/EXT/ISFA/1226.nsf/9c8e3fd4d8874d60c1257052003eced6/55f3745f636094edc125855b00320de4/$FILE/Tontines_Article_v1.8.0.pdf)
-Winter, P. and Planchet, F. (2020). Working paper.
+[Modern Tontines.](https://link.springer.com/article/10.1007/s13385-021-00297-8)
+Winter, P. and Planchet, F. (2021). European Actuarial Journal, 11(2).
 
 [State-sponsored Pensions for Private Sector Workers: The Case for Pooled Annuities and Tontines.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1688&context=prc_papers)
 Fullmer, R. K. and Forman, J. B. (2020). Wharton Pension Research Council Working Papers.
