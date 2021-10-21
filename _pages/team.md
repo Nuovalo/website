@@ -90,7 +90,7 @@ feature_row_michael_sabin:
 feature_row_jonathan_forman:
   - image_path: /assets/images/team/nuovalo-modern-tontine-JBF.png
     alt: #"Jonathan Barry Forman"
-    title: "In Memorium: Jonathan Forman, Legal and Regulatory Advisor"
+    title: "In Memoriam: Jonathan Forman, Legal and Regulatory Advisor"
     excerpt: "We are deeply saddened by the death in 2021 of our advisor, collaborator, and friend, professor Jonathan Barry Forman. Jon was the Kenneth E. McAfee Centennial Chair in Law at the University of Oklahoma, where he taught courses on tax and pension law. Professor Forman also served in Washington, DC as the Professor in Residence for the Internal Revenue Service Office of Chief Counsel for the 2009–2010 academic year, and he was a member of the Board of Trustees of the Oklahoma Public Employees Retirement System (OPERS) from 2003 through 2011. He has written extensively on the legal and regulatory considerations of tontine pensions."
     url: "https://www.law.ou.edu/directory/jonathan-forman"
     btn_class: "btn--primary"
