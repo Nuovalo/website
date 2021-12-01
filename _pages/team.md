@@ -32,9 +32,9 @@ feature_row_intro:
 
 
 feature_row_dots:
-- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
-  #title: "AAAAAAAAA"
-  excerpt: "<br>"
+  - image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+    #title: "AAAAAAAAA"
+    excerpt: "<br>"
 
 
 feature_row_richard:
@@ -118,22 +118,22 @@ feature_row_jonathan_forman:
 
 
 feature_row_ksp:
-- image_path: /assets/images/nuovalo-modern-tontines-dots2.png
-  title: "What if Financial Institutions could tap much deeper into the underserved retirement market ?"
-  excerpt: "*...and this solution included:*<br><br>
-   **Low costs**
-   <br>
-   **Superior returns**
-   <br>
-   **Individualized** payouts and asset allocation
-   <br>
-   High **transparency**
-   <br>
-   **Lower capital** requirements
-   <br><br>
-   ...and was **fully funded** and **forever sustainable** ?
-   <br>
-    "
+  - image_path: /assets/images/nuovalo-modern-tontines-dots2.png
+    title: "What if Financial Institutions could tap much deeper into the underserved retirement market ?"
+    excerpt: "*...and this solution included:*<br><br>
+     **Low costs**
+     <br>
+     **Superior returns**
+     <br>
+     **Individualized** payouts and asset allocation
+     <br>
+     High **transparency**
+     <br>
+     **Lower capital** requirements
+     <br><br>
+     ...and was **fully funded** and **forever sustainable** ?
+     <br>
+      "
 
 
 ---
