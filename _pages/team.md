@@ -77,7 +77,7 @@ feature_row_manuel:
     btn_label: "Manuel Garcia-Huitron"
 
 
-feature_row_luisa_von_platen:
+feature_row_luisa:
   - image_path: /assets/images/team/nuovalo-modern-tontine-luisa-von-platen.png
     alt: #"Luisa von Platen"
     title: "Luisa von Platen, Intern, Global Operations"
@@ -87,7 +87,7 @@ feature_row_luisa_von_platen:
     btn_label: "Luisa von Platen"
 
 
-feature_row_andrew_briscoe:
+feature_row_andy:
   - image_path: /assets/images/team/nuovalo-modern-tontine-andy-briscoe.png
     alt: #"Andrew Briscoe"
     title: "Andrew Briscoe, Strategic Advisor"
@@ -147,10 +147,12 @@ feature_row_ksp:
 {% include feature_row id="feature_row_richard" type="left" %}
 {% include feature_row id="feature_row_pascal" type="right" %}
 {% include feature_row id="feature_row_manuel" type="left" %}
+{% include feature_row id="feature_row_luisa" type="left" %}
 <br>
 
 # Advisors
 <br>
 {% include feature_row id="feature_row_tyron" type="right" %}
+{% include feature_row id="feature_row_andy" type="right" %}
 {% include feature_row id="feature_row_michael_sabin" type="left" %}
 {% include feature_row id="feature_row_jonathan_forman" type="right" %}
