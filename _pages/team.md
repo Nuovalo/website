@@ -77,24 +77,24 @@ feature_row_manuel:
     btn_label: "Manuel Garcia-Huitron"
 
 
-  feature_row_luisa_von_platen:
-    - image_path: /assets/images/team/nuovalo-modern-tontine-luisa-von-platen.png
-      alt: #"Luisa von Platen"
-      title: "Luisa von Platen, Intern, Global Operations"
-      excerpt: "Luisa von Platen works in the Global Operations unit, where her roles include research and marketing. Research topics include behavioral finance and the pension issues so often overlooked by members of Generation Z. She specializes in emerging markets and is a recent graduate of Maastricht University in the Netherlands."
-      url: "https://www.linkedin.com/in/luisavonplaten/"
-      btn_class: "btn--primary"
-      btn_label: "Luisa von Platen"
+feature_row_luisa_von_platen:
+  - image_path: /assets/images/team/nuovalo-modern-tontine-luisa-von-platen.png
+    alt: #"Luisa von Platen"
+    title: "Luisa von Platen, Intern, Global Operations"
+    excerpt: "Luisa von Platen works in the Global Operations unit, where her roles include research and marketing. Research topics include behavioral finance and the pension issues so often overlooked by members of Generation Z. She specializes in emerging markets and is a recent graduate of Maastricht University in the Netherlands."
+    url: "https://www.linkedin.com/in/luisavonplaten/"
+    btn_class: "btn--primary"
+    btn_label: "Luisa von Platen"
 
 
-  feature_row_andrew_briscoe:
-    - image_path: /assets/images/team/nuovalo-modern-tontine-andy-briscoe.png
-      alt: #"Andrew Briscoe"
-      title: "Andrew Briscoe, Strategic Advisor"
-      excerpt: "Andy Briscoe is chair of Indesser, a JV between the UK government and Equifax set up to manage consumer debt to government departments more effectively and responsibly. Following an executive career in financial services and private equity, he chaired the Money Advice Service for HM Treasury between 2013-2019. In 2006 Andy founded Life Trust, an innovative company offering longevity risk sharing solutions in the UK."
-      url: "https://www.linkedin.com/in/andy-briscoe-b7b1a097/"
-      btn_class: "btn--primary"
-      btn_label: "Andrew Briscoe"
+feature_row_andrew_briscoe:
+  - image_path: /assets/images/team/nuovalo-modern-tontine-andy-briscoe.png
+    alt: #"Andrew Briscoe"
+    title: "Andrew Briscoe, Strategic Advisor"
+    excerpt: "Andy Briscoe is chair of Indesser, a JV between the UK government and Equifax set up to manage consumer debt to government departments more effectively and responsibly. Following an executive career in financial services and private equity, he chaired the Money Advice Service for HM Treasury between 2013-2019. In 2006 Andy founded Life Trust, an innovative company offering longevity risk sharing solutions in the UK."
+    url: "https://www.linkedin.com/in/andy-briscoe-b7b1a097/"
+    btn_class: "btn--primary"
+    btn_label: "Andrew Briscoe"
 
 
 feature_row_michael_sabin:
