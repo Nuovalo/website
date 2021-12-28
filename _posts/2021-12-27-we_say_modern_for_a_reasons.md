@@ -10,7 +10,7 @@ tags:
 classes: wide
 
 header:
-  teaser: /assets/images/thumb/nuovalo-vintage-gas-pump.jpg
+  teaser: /assets/images/thumb/nuovalo-vintage-gas-pump.png
 
 
 ---
@@ -22,7 +22,7 @@ We recently read an interesting Christmas Day blog article by Henry Tapper calle
 ## Antiquated Tontines
 Regardless, it bears mentioning that the article appears to focus primarily on the characteristics of *antiquated* tontines rather than *modern* tontines.  This is a common misstep and perhaps a forgivable one – after all, people have heard about the tontines of the past (and their stained history, so what better than citing an episode of The Simpsons that parodies them… touché!), but they may not be familiar with the concept of modern fair tontines.  So, this seems like a good opportunity for us to highlight the differences.
 
-![Antiquated](/assets/images/thumb/nuovalo-vintage-gas-pump.jpg)
+![Antiquated](/assets/images/thumb/nuovalo-vintage-gas-pump.png)
 
 Let’s start with Mr. Tapper’s definition of a tontine.  We reproduce his full paragraph here (the bold emphasis is his):
 
