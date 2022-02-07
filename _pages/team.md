@@ -147,12 +147,12 @@ feature_row_ksp:
 {% include feature_row id="feature_row_richard" type="left" %}
 {% include feature_row id="feature_row_pascal" type="right" %}
 {% include feature_row id="feature_row_manuel" type="left" %}
-{% include feature_row id="feature_row_luisa" type="left" %}
+{% include feature_row id="feature_row_luisa" type="right" %}
 <br>
 
 # Advisors
 <br>
-{% include feature_row id="feature_row_tyron" type="right" %}
+{% include feature_row id="feature_row_tyron" type="left" %}
 {% include feature_row id="feature_row_andy" type="right" %}
 {% include feature_row id="feature_row_michael_sabin" type="left" %}
 {% include feature_row id="feature_row_jonathan_forman" type="right" %}
